@@ -1,14 +1,15 @@
 # LA1300 Projekt-Dokumentation
 
-☝️ Alle Text-Stellen, welche mit einem ✍️ beginnen, können Sie löschen, sobald Sie die entsprechende Stellen ausgefüllt haben.
-
-✍️ Ihr Gruppenname und Ihre Nachnamen
+Honey: Spycher, Bächli, Müller, Nursiwat, Oesch
 
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
 |       | 0.0.1   | ✍️ Jedes Mal, wenn Sie an dem Projekt arbeiten, fügen Sie hier eine neue Zeile ein und beschreiben in *einem* Satz, was Sie erreicht haben. |
-|       | ...     |                                                              |
-|       | 1.0.0   |                                                              |
+|       | 0.0.2   |                                                              |
+|       | 0.0.3   |                                                              |
+|       | 0.0.4   |                                                              |
+|       | 0.0.0   |                                                              |
+
 
 ## 1 Informieren
 
@@ -21,7 +22,16 @@
 | US-№ | Verbindlichkeit | Typ  | Beschreibung                       |
 | ---- | --------------- | ---- | ---------------------------------- |
 | 1    |                 |      | Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️ |
-| ...  |                 |      |                                    |
+| 2    |                 |      |                                    |
+| 3    |                 |      |                                    |
+| 4    |                 |      |                                    |
+| 5    |                 |      |                                    |
+| 6    |                 |      |                                    |
+| 7    |                 |      |                                    |
+| 8    |                 |      |                                    |
+| 9    |                 |      |                                    |
+| 10   |                 |      |                                    |
+
 
 ✍️ Jede User Story hat eine ganzzahlige Nummer (1, 2, 3 etc.), eine Verbindlichkeit (Muss oder Kann?), und einen Typ (Funktional, Qualität, Rand). Die User Story selber hat folgende Form: *Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️*.
 
@@ -29,6 +39,22 @@
 
 | TC-№ | Ausgangslage | Eingabe | Erwartete Ausgabe |
 | ---- | ------------ | ------- | ----------------- |
+| 1.1  |              |         |                   |
+| 1.1  |              |         |                   |
+| 1.1  |              |         |                   |
+| 1.1  |              |         |                   |
+| 1.1  |              |         |                   |
+| 1.1  |              |         |                   |
+| 1.1  |              |         |                   |
+| 1.1  |              |         |                   |
+| 1.1  |              |         |                   |
+| 1.1  |              |         |                   |
+| 1.1  |              |         |                   |
+| 1.1  |              |         |                   |
+| 1.1  |              |         |                   |
+| 1.1  |              |         |                   |
+| 1.1  |              |         |                   |
+| 1.1  |              |         |                   |
 | 1.1  |              |         |                   |
 | ...  |              |         |                   |
 
