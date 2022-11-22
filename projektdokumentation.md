@@ -4,7 +4,7 @@ Honey: Spycher, Bächli, Müller, Nursiwat, Oesch
 
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
-|       | 0.0.1   | ✍️ Jedes Mal, wenn Sie an dem Projekt arbeiten, fügen Sie hier eine neue Zeile ein und beschreiben in *einem* Satz, was Sie erreicht haben. |
+|       | 0.0.1   | Wir haben uns mit WinForms bekannt gemacht und unds für ein Kartenspiel Projekt entschieden. |
 |       | 0.0.2   |                                                              |
 |       | 0.0.3   |                                                              |
 |       | 0.0.4   |                                                              |
@@ -15,7 +15,7 @@ Honey: Spycher, Bächli, Müller, Nursiwat, Oesch
 
 ### 1.1 Ihr Projekt
 
-✍️ Beschreiben Sie Ihr Projekt in einem griffigen Satz.
+Bei unserem Spiel kann mann Kartenspielen.
 
 ### 1.2 User Stories
 
