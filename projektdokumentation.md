@@ -40,23 +40,15 @@ Honey: Spycher, Bächli, Müller, Nursiwat, Oesch
 | TC-№ | Ausgangslage | Eingabe | Erwartete Ausgabe |
 | ---- | ------------ | ------- | ----------------- |
 | 1.1  |              |         |                   |
-| 1.1  |              |         |                   |
-| 1.1  |              |         |                   |
-| 1.1  |              |         |                   |
-| 1.1  |              |         |                   |
-| 1.1  |              |         |                   |
-| 1.1  |              |         |                   |
-| 1.1  |              |         |                   |
-| 1.1  |              |         |                   |
-| 1.1  |              |         |                   |
-| 1.1  |              |         |                   |
-| 1.1  |              |         |                   |
-| 1.1  |              |         |                   |
-| 1.1  |              |         |                   |
-| 1.1  |              |         |                   |
-| 1.1  |              |         |                   |
-| 1.1  |              |         |                   |
-| ...  |              |         |                   |
+| 2.1  |              |         |                   |
+| 3.1  |              |         |                   |
+| 4.1  |              |         |                   |
+| 5.1  |              |         |                   |
+| 6.1  |              |         |                   |
+| 7.1  |              |         |                   |
+| 8.1  |              |         |                   |
+| 9.1  |              |         |                   |
+| 10.1 |              |         |                   |
 
 ✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, die der Testfall abdeckt, und `m` von `1` an nach oben gezählt. Beispiel: Der dritte Testfall, der die zweite User Story abdeckt, hat also die Nummer `2.3`.
 
@@ -69,7 +61,16 @@ Honey: Spycher, Bächli, Müller, Nursiwat, Oesch
 | AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit |
 | ---- | ----- | --------- | ------------ | ------------- |
 | 1.A  |       |           |              |               |
-| ...  |       |           |              |               |
+| 2.A  |       |           |              |               |
+| 3.A  |       |           |              |               |
+| 4.A  |       |           |              |               |
+| 5.A  |       |           |              |               |
+| 6.A  |       |           |              |               |
+| 7.A  |       |           |              |               |
+| 8.A  |       |           |              |               |
+| 9.A  |       |           |              |               |
+| 10.A |       |           |              |               |
+
 
 Total: 
 
