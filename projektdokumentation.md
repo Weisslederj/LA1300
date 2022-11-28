@@ -26,7 +26,7 @@ Bei unserem Spiel kann man Kartenspielen.
 | 3    | muss                |funktional| Als User möchte ich wissen wie viel mal man gegen den Dealer gewonnen/verloren hat, damit man weiss dass ob man gut oder schlecht ist.                                    |
 | 4    |kann    |qualitäts    |    Als User möchte ich dass das Programm ordentlich aussieht, damit man es leicht benutzten kann.                                |
 | 5    |kann                 | qualität|   Als User möchte ich dass die Reglen des Spiels nochmals kurz erklärt werden, damit man keine Fehler macht während dem Spielen.                                 |
-| 6    |                 |      |                                    |
+| 6    |kann               |  funktional    |  Als User möchte ich dass ein Timer gestartet wird, damit ich weiss wie lange ich schon spiele.                                 |
 | 7    |                 |      |                                    |
 | 8    |                 |      |                                    |
 | 9    |                 |      |                                    |
