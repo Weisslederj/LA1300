@@ -15,13 +15,13 @@ Honey: Spycher, Bächli, Müller, Nursiwat, Oesch
 
 ### 1.1 Ihr Projekt
 
-Bei unserem Spiel kann mann Kartenspielen.
+Bei unserem Spiel kann man Kartenspielen.
 
 ### 1.2 User Stories
 
 | US-№ | Verbindlichkeit | Typ  | Beschreibung                       |
 | ---- | --------------- | ---- | ---------------------------------- |
-| 1    |                 |      | Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️ |
+| 1    |  muss               |funktional      | Als User möchte dass ich wissen was für eine Karte ich gezogen habe, damit ich mir überlgen  kann ob ich noch eine Karte ziehe.   |
 | 2    |                 |      |                                    |
 | 3    |                 |      |                                    |
 | 4    |                 |      |                                    |
