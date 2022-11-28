@@ -29,7 +29,7 @@ Wir machen ein Backjack Spiel
 | 6    |kann               |  funktional    |  Als User möchte ich dass ein Timer gestartet wird, damit ich weiss wie lange ich schon spiele.                                 |
 | 7    |  muss              |  funktional    |  Als User möchte ich dass die Karten gemischt sind, damit nicht immer das Selbe kommt.                                  |
 | 8    |  muss               | funktional     | Als User möchte ich dass gefragt wird ob man noch eine Karte ziehen will, damit man entscheiden kann ob man eine nimmt oder nicht.                                   |
-| 9    |                 |      |                                    |
+| 9    |    muss             |  funktional    |   Als User möchte ich das Karten einen Wert von 1-11 haben, damit es entsprechend zu den Regeln passt.                                 |
 | 10   |                 |      |                                    |
 
 
@@ -83,7 +83,7 @@ Wir machen ein Backjack Spiel
 | 1.A  |       | Nursiwat          | Der User wird eine Karte gegeben             |     30 min          |
 | 2.A  |       |       Nursiwat    | Der User wird gefragt ob er noch eine Karte ziehen will           |   35 min            |
 | 3.A  |       | Nursiwat          | Die Karten sind immer gemischt             |  50 min            |
-| 4.A  |       | Nursiwat          |              |               |
+| 4.A  |       | Nursiwat          |  Die Karten haben einen Wert zwischen 1-11            | 60 min              |
 | 5.A  |       |  Nursiwat         |              |               |
 | 6.A  |       | Nursiwat          |              |               |
 | 7.A  |       |           |              |               |
