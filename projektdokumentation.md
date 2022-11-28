@@ -4,7 +4,7 @@ Honey: Spycher, Bächli, Müller, Nursiwat, Oesch
 
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
-|       | 0.0.1   | Wir haben uns mit WinForms bekannt gemacht und unds für ein Kartenspiel Projekt entschieden. |
+| 22.11.22      | 0.0.1   | Wir haben uns mit WinForms bekannt gemacht und unds für ein Kartenspiel Projekt entschieden. |
 |       | 0.0.2   |                                                              |
 |       | 0.0.3   |                                                              |
 |       | 0.0.4   |                                                              |
@@ -25,7 +25,7 @@ Bei unserem Spiel kann man Kartenspielen.
 | 2    |     muss            |funktional      | Als User möchte ich dass am Ende der Runde gefragt wird ob man nochmals spielen will, damit ich nicht immer das Programm neustarten muss.                                   |
 | 3    | muss                |funktional| Als User möchte ich wissen wie viel mal man gegen den Dealer gewonnen/verloren hat, damit man weiss dass ob man gut oder schlecht ist.                                    |
 | 4    |kann    |qualitäts    |    Als User möchte ich dass das Programm ordentlich aussieht, damit man es leicht benutzten kann.                                |
-| 5    |                 |      |                                    |
+| 5    |kann                 | qualität|   Als User möchte ich dass die Reglen des Spiels nochmals kurz erklärt werden, damit man keine Fehler macht während dem Spielen.                                 |
 | 6    |                 |      |                                    |
 | 7    |                 |      |                                    |
 | 8    |                 |      |                                    |
