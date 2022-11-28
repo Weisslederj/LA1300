@@ -21,8 +21,8 @@ Bei unserem Spiel kann man Kartenspielen.
 
 | US-№ | Verbindlichkeit | Typ  | Beschreibung                       |
 | ---- | --------------- | ---- | ---------------------------------- |
-| 1    |  muss               |funktional      | Als User möchte dass ich wissen was für eine Karte ich gezogen habe, damit ich mir überlgen  kann ob ich noch eine Karte ziehe.   |
-| 2    |                 |      |                                    |
+| 1    |  muss               |funktional      | Als User möchte ich wissen was für eine Karte ich gezogen habe, damit ich mir überlgen  kann ob ich noch eine Karte ziehe.   |
+| 2    |     muss            |funktional      | Als User möchte ich dass am Ende der Runde gefragt wird ob man nochmals spielen will, damit ich nicht immer das Programm neustarten muss.                                   |
 | 3    |                 |      |                                    |
 | 4    |                 |      |                                    |
 | 5    |                 |      |                                    |
