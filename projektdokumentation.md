@@ -27,8 +27,8 @@ Bei unserem Spiel kann man Kartenspielen.
 | 4    |kann    |qualitäts    |    Als User möchte ich dass das Programm ordentlich aussieht, damit man es leicht benutzten kann.                                |
 | 5    |kann                 | qualität|   Als User möchte ich dass die Reglen des Spiels nochmals kurz erklärt werden, damit man keine Fehler macht während dem Spielen.                                 |
 | 6    |kann               |  funktional    |  Als User möchte ich dass ein Timer gestartet wird, damit ich weiss wie lange ich schon spiele.                                 |
-| 7    |                 |      |                                    |
-| 8    |                 |      |                                    |
+| 7    |  muss              |  funktional    |  Als User möchte ich dass die Karten gemischt sind, damit nicht immer das Selbe kommt.                                  |
+| 8    |  muss               | funktional     | Als User möchte ich dass gefragt wird ob man noch eine Karte ziehen will, damit man entscheiden kann ob man eine nimmt oder nicht.                                   |
 | 9    |                 |      |                                    |
 | 10   |                 |      |                                    |
 
@@ -48,7 +48,27 @@ Bei unserem Spiel kann man Kartenspielen.
 | 7.1  |              |         |                   |
 | 8.1  |              |         |                   |
 | 9.1  |              |         |                   |
-| 10.1 |              |         |                   |
+| 11.1 |              |         |                   |
+| 12.1 |              |         |                   |
+| 13.1 |              |         |                   |
+| 14.1 |              |         |                   |
+| 15.1 |              |         |                   |
+| 16.1 |              |         |                   |
+| 17.1 |              |         |                   |
+| 18.1 |              |         |                   |
+| 19.1 |              |         |                   |
+| 21.1 |              |         |                   |
+| 22.1 |              |         |                   |
+| 23.1 |              |         |                   |
+| 24.1 |              |         |                   |
+| 25.1 |              |         |                   |
+| 26.1 |              |         |                   |
+| 27.1 |              |         |                   |
+| 28.1 |              |         |                   |
+| 29.1 |              |         |                   |
+| 30.1 |              |         |                   |
+
+
 
 ✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, die der Testfall abdeckt, und `m` von `1` an nach oben gezählt. Beispiel: Der dritte Testfall, der die zweite User Story abdeckt, hat also die Nummer `2.3`.
 
@@ -60,12 +80,12 @@ Bei unserem Spiel kann man Kartenspielen.
 
 | AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit |
 | ---- | ----- | --------- | ------------ | ------------- |
-| 1.A  |       |           |              |               |
-| 2.A  |       |           |              |               |
-| 3.A  |       |           |              |               |
-| 4.A  |       |           |              |               |
-| 5.A  |       |           |              |               |
-| 6.A  |       |           |              |               |
+| 1.A  |       | Nursiwat          | Der User wird eine Karte gegeben             |     30 min          |
+| 2.A  |       |       Nursiwat    | Der User wird gefragt ob er noch eine Karte ziehen will           |   35 min            |
+| 3.A  |       | Nursiwat          | Die Karten sind immer gemischt             |  50 min            |
+| 4.A  |       | Nursiwat          |              |               |
+| 5.A  |       |  Nursiwat         |              |               |
+| 6.A  |       | Nursiwat          |              |               |
 | 7.A  |       |           |              |               |
 | 8.A  |       |           |              |               |
 | 9.A  |       |           |              |               |
