@@ -51,8 +51,8 @@ Wir machen ein Uno
 | ---- | ------------ | ------- | ----------------- |
 | 1.1  | Spiel wird gestartet | - | Karten werden auf Tisch angezeigt.|
 | 2.1  | Spiel wurde gestartet             |         |                   |
-| 3.1  |              |         |  Karten an Spieler verteilt  |
-| 4.1  |              |         |                   |
+| 3.1  |           |         |  Karten an Spieler verteilt  |
+| 4.1  | man bracuht neue Karten              |Spieldekc wird gedrückt            |    man bekommt eine neue Karte               |
 | 5.1  |              |         |                   |
 | 6.1  |              |         |                   |
 | 7.1  |              |         |                   |
