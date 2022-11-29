@@ -15,7 +15,7 @@ Honey: Spycher, Bächli, Müller, Nursiwat, Oesch
 
 ### 1.1 Ihr Projekt
 
-Wir machen ein Backjack Spiel
+Wir machen ein Uno
 
 ### 1.2 User Stories
 
@@ -51,7 +51,7 @@ Wir machen ein Backjack Spiel
 | ---- | ------------ | ------- | ----------------- |
 | 1.1  | Spiel wird gestartet | - | Karten werden auf Tisch angezeigt.|
 | 2.1  | Spiel wurde gestartet             |         |                   |
-| 3.1  |              |         |                   |
+| 3.1  |              |         |  Karten an Spieler verteilt  |
 | 4.1  |              |         |                   |
 | 5.1  |              |         |                   |
 | 6.1  |              |         |                   |
