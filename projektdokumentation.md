@@ -21,16 +21,16 @@ Wir machen ein Backjack Spiel
 
 | US-№ | Verbindlichkeit | Typ  | Beschreibung                       |
 | ---- | --------------- | ---- | ---------------------------------- |
-| 1    |  muss               |funktional      | Als User möchte ich wissen was für eine Karte ich gezogen habe, damit ich mir überlgen  kann ob ich noch eine Karte ziehe.   |
-| 2    |     muss            |funktional      | Als User möchte ich dass am Ende der Runde gefragt wird ob man nochmals spielen will, damit ich nicht immer das Programm neustarten muss.                                   |
-| 3    | muss                |funktional| Als User möchte ich wissen wie viel mal man gegen den Dealer gewonnen/verloren hat, damit man weiss dass ob man gut oder schlecht ist.                                    |
-| 4    |kann    |qualitäts    |    Als User möchte ich dass das Programm ordentlich aussieht, damit man es leicht benutzten kann.                                |
-| 5    |kann                 | qualität|   Als User möchte ich dass die Reglen des Spiels nochmals kurz erklärt werden, damit man keine Fehler macht während dem Spielen.                                 |
-| 6    |kann               |  funktional    |  Als User möchte ich dass ein Timer gestartet wird, damit ich weiss wie lange ich schon spiele.                                 |
-| 7    |  muss              |  funktional    |  Als User möchte ich dass die Karten gemischt sind, damit nicht immer das Selbe kommt.                                  |
-| 8    |  muss               | funktional     | Als User möchte ich dass gefragt wird ob man noch eine Karte ziehen will, damit man entscheiden kann ob man eine nimmt oder nicht.                                   |
-| 9    |    muss             |  funktional    |   Als User möchte ich das Karten einen Wert von 1-11 haben, damit es entsprechend zu den Regeln passt.                                 |
-| 10   |                 |      |                                    |
+| 1    |        Muss   |   Funktional   | Ich will, dass ein Kartendeck auf dem Spieltisch existiert, damit die Karten spielbar sind.|
+| 2    |        Muss   |   Funktional   | Ich will, dass am Start des Spiels jedem Spieler eine Anzahl an Karten ausgeteilt wird, damit er Karten hat.|
+| 3    |        Muss   |   Funktional   | Ich will, dass man Karten legen kann, dass das Spiel gespielt werden kann.|
+| 4    |        Muss   |   Funktional   | Ich will, dass nach einer gelegten Karte der nächste Spieler dran ist, damit alle spielen können.|
+| 5    |        Muss   |   Funktional   | Ich will, dass sobald einer keine Karten mehr hat das Spiel gewinnt, dass es ein Ende gibt.|
+| 6    |        Muss   |   Funktional   | Ich will, dass man nach einer Runde gefrgat wird ob man nochmals speilen möchte, dass das Programm nicht neugestartet werden muss.|
+| 7    |        Muss   |   Funktional   | Ich will, dass man Karten legen kann, dass das Spiel gespielt werden kann.|
+| 8    |        Muss   |   Funktiona    | Ich will, dass man Karten legen kann, dass das Spiel gespielt werden kann.|
+| 9    |        Muss   |   Funktional   | Bei einem Buchstaben oder einem Wort Problem sagen, damit es keine Fehler gibt |
+
 
 
 ✍️ Jede User Story hat eine ganzzahlige Nummer (1, 2, 3 etc.), eine Verbindlichkeit (Muss oder Kann?), und einen Typ (Funktional, Qualität, Rand). Die User Story selber hat folgende Form: *Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️*.
