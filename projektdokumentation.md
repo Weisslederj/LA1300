@@ -80,11 +80,11 @@ Wir machen ein Backjack Spiel
 
 | AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit |
 | ---- | ----- | --------- | ------------ | ------------- |
-| 1.A  |       | Nursiwat          | Der User wird eine Karte gegeben             |     30 min          |
-| 2.A  |       |       Nursiwat    | Der User wird gefragt ob er noch eine Karte ziehen will           |   35 min            |
+| 1.A  |       | Nursiwat          | Der User werden Karten gegeben             |     30 min          |
+| 2.A  |       | Nursiwat          | Der User wird gefragt ob er noch eine Karte ziehen will           |   35 min            |
 | 3.A  |       | Nursiwat          | Die Karten sind immer gemischt             |  50 min            |
-| 4.A  |       | Nursiwat          |  Die Karten haben einen Wert zwischen 1-11            | 60 min              |
-| 5.A  |       |  Nursiwat         |              |               |
+| 4.A  |       | Nursiwat          | jede Karte hat eine andere Farbe und Nummer        | 60 min              |
+| 5.A  |       | Nursiwat         |              |               |
 | 6.A  |       | Nursiwat          |              |               |
 | 7.A  |       |           |              |               |
 | 8.A  |       |           |              |               |
