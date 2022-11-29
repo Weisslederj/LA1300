@@ -22,14 +22,18 @@ Wir machen ein Backjack Spiel
 | US-№ | Verbindlichkeit | Typ  | Beschreibung                       |
 | ---- | --------------- | ---- | ---------------------------------- |
 | 1    |        Muss   |   Funktional   | Ich will, dass ein Kartendeck auf dem Spieltisch existiert, damit die Karten spielbar sind.|
-| 2    |        Muss   |   Funktional   | Ich will, dass am Start des Spiels jedem Spieler eine Anzahl an Karten ausgeteilt wird, damit er Karten hat.|
-| 3    |        Muss   |   Funktional   | Ich will, dass man Karten legen kann, dass das Spiel gespielt werden kann.|
-| 4    |        Muss   |   Funktional   | Ich will, dass nach einer gelegten Karte der nächste Spieler dran ist, damit alle spielen können.|
-| 5    |        Muss   |   Funktional   | Ich will, dass sobald einer keine Karten mehr hat das Spiel gewinnt, dass es ein Ende gibt.|
-| 6    |        Muss   |   Funktional   | Ich will, dass man nach einer Runde gefrgat wird ob man nochmals speilen möchte, dass das Programm nicht neugestartet werden muss.|
-| 7    |        Muss   |   Funktional   | Ich will, dass man Karten legen kann, dass das Spiel gespielt werden kann.|
-| 8    |        Muss   |   Funktiona    | Ich will, dass man Karten legen kann, dass das Spiel gespielt werden kann.|
-| 9    |        Muss   |   Funktional   | Bei einem Buchstaben oder einem Wort Problem sagen, damit es keine Fehler gibt |
+| 2    |        Muss   |   Funktional   | Ich will, dass am Start des Spiels die Anzahl der Spieler angegeben wird, damit man Variationen hat.  |
+| 3    |        Muss   |   Funktional   | Ich will, dass am Start des Spiels jedem Spieler eine Anzahl an Karten ausgeteilt wird, damit er Karten hat.|
+| 4    |        Muss   |   Funktional   | Ich will, dass man Karten legen kann, dass das Spiel gespielt werden kann.|
+| 5    |        Muss   |   Funktional   | Ich will, dass nach einer gelegten Karte der nächste Spieler dran ist, damit alle spielen können.|
+| 6    |        Muss   |   Funktional   | Ich will, dass sobald einer keine Karten mehr hat das Spiel gewinnt, dass es ein Ende gibt.|
+| 7    |        Muss   |   Funktional   | Ich will, dass man nach einer Runde gefrgat wird ob man nochmals speilen möchte, dass das Programm nicht neugestartet werden muss.|
+| 8    |        Muss   |   Funktional   | Ich will, dass man Karten legen kann, dass das Spiel gespielt werden kann.|
+| 9    |        Muss   |   Funktiona    | Ich will, dass man Karten legen kann, dass das Spiel gespielt werden kann.|
+| 10    |       Muss   |   Funktional   | Ich will, Dass man ein Spielmenu vor dem Start des Spiel aufrufen kann, damit man interessantere Spiele hat.|
+| 11    |       Muss   |   Funktional   | Ich will, Dass |
+| 10    |       Muss   |   Funktional   | Ich will, Bei einem Buchstaben oder einem Wort Problem sagen, damit es keine Fehler gibt |
+
 
 
 
@@ -39,17 +43,17 @@ Wir machen ein Backjack Spiel
 
 | TC-№ | Ausgangslage | Eingabe | Erwartete Ausgabe |
 | ---- | ------------ | ------- | ----------------- |
-| 1.1  | Spiel wird gestartet | - |                   |
-| 2.1  |              |         |                   |
-| 3.1  |              |         |                   |
-| 4.1  |              |         |                   |
-| 5.1  |              |         |                   |
-| 6.1  |              |         |                   |
-| 7.1  |              |         |                   |
-| 8.1  |              |         |                   |
-| 9.1  |              |         |                   |
-| 11.1 |              |         |                   |
-| 12.1 |              |         |                   |
+| 1.1  | Spiel wird gestartet | - | Karten werden auf Tisch angezeigt.|
+| 2.2  | Spiel wurde gestartet             |         |                   |
+| 3.3  |              |         |                   |
+| 4.4  |              |         |                   |
+| 5.5  |              |         |                   |
+| 6.6  |              |         |                   |
+| 7.7  |              |         |                   |
+| 8.8  |              |         |                   |
+| 9.9  |              |         |                   |
+| 11.10 |              |         |                   |
+| 12.11 |              |         |                   |
 | 13.1 |              |         |                   |
 | 14.1 |              |         |                   |
 | 15.1 |              |         |                   |
