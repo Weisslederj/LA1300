@@ -29,10 +29,16 @@ Wir machen ein Backjack Spiel
 | 6    |        Muss   |   Funktional   | Ich will, dass sobald einer keine Karten mehr hat das Spiel gewinnt, dass es ein Ende gibt.|
 | 7    |        Muss   |   Funktional   | Ich will, dass man nach einer Runde gefrgat wird ob man nochmals speilen möchte, dass das Programm nicht neugestartet werden muss.|
 | 8    |        Muss   |   Funktional   | Ich will, dass man Karten legen kann, dass das Spiel gespielt werden kann.|
-| 9    |        Muss   |   Funktiona    | Ich will, dass man Karten legen kann, dass das Spiel gespielt werden kann.|
+| 9    |        Muss   |   Funktional   | Ich will, dass man Karten legen kann, dass das Spiel gespielt werden kann.|
 | 10    |       Muss   |   Funktional   | Ich will, Dass man ein Spielmenu vor dem Start des Spiel aufrufen kann, damit man interessantere Spiele hat.|
-| 11    |       Muss   |   Funktional   | Ich will, Dass |
-| 10    |       Muss   |   Funktional   | Ich will, Bei einem Buchstaben oder einem Wort Problem sagen, damit es keine Fehler gibt |
+| 11    |       Kann   |   Funktional   | Ich will, Dass ein Rundencounter angezeigt wird, damit man weiss in welcher Runde man gewonnen hat.|
+| 12    |       Kann   |   Funktional   | Ich will, Dass man eine Karte hat um die Farbe neu zu wählen, dass es Cooler ist  |
+| 13    |       Kann   |   Funktional   | Ich will, Dass es   |
+| 14    |       Kann   |   Funktional   | Ich will, Dass man eine Karte hat um die Farbe neu zu wählen  |
+| 15    |       Kann   |   Funktional   | Ich will, Dass man eine Karte hat um die Farbe neu zu wählen  |
+| 16    |       Kann   |   Funktional   | Ich will, Dass man eine Karte hat um die Farbe neu zu wählen  |
+| 17    |       Kann   |   Funktional   | Ich will, Dass man eine Karte hat um die Farbe neu zu wählen  |
+
 
 
 
