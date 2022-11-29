@@ -5,7 +5,7 @@ Honey: Spycher, Bächli, Müller, Nursiwat, Oesch
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
 | 22.11.22      | 0.0.1   | Wir haben uns mit WinForms bekannt gemacht und unds für ein Kartenspiel Projekt entschieden. |
-|       | 0.0.2   |                                                              |
+|29/11/22       | 0.0.2   |  Wir haben angefangen das Uno Spiel zu programmieren                                                            |
 |       | 0.0.3   |                                                              |
 |       | 0.0.4   |                                                              |
 |       | 0.0.0   |                                                              |
@@ -94,8 +94,8 @@ Wir machen ein Uno
 | 2.A  |       | Nursiwat          | Der User wird gefragt ob er noch eine Karte ziehen will           |   35 min            |
 | 3.A  |       | Nursiwat          | Die Karten sind immer gemischt             |  50 min            |
 | 4.A  |       | Nursiwat          | jede Karte hat eine andere Farbe und Nummer        | 60 min              |
-| 5.A  |       | Nursiwat         |              |               |
-| 6.A  |       | Nursiwat          |              |               |
+| 5.A  |       | Nursiwat          | Wenn man auf den Deck drückt bekommt man eine neue Karte             |  40 min             |
+| 6.A  |       | Nursiwat          |  Insgesamt gibt es 40 Karten            |  30 min             |
 | 7.A  |       |           |              |               |
 | 8.A  |       |           |              |               |
 | 9.A  |       |           |              |               |
