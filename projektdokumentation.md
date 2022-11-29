@@ -39,7 +39,7 @@ Wir machen ein Backjack Spiel
 
 | TC-№ | Ausgangslage | Eingabe | Erwartete Ausgabe |
 | ---- | ------------ | ------- | ----------------- |
-| 1.1  |              |         |                   |
+| 1.1  | Spiel wird gestartet | - |                   |
 | 2.1  |              |         |                   |
 | 3.1  |              |         |                   |
 | 4.1  |              |         |                   |
