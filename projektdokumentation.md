@@ -33,8 +33,8 @@ Wir machen ein Uno
 | 10    |       Muss   |   Funktional   | Ich will, Dass man ein Spielmenu vor dem Start des Spiel aufrufen kann, damit man interessantere Spiele hat.|
 | 11    |       Kann   |   Funktional   | Ich will, Dass ein Rundencounter angezeigt wird, damit man weiss in welcher Runde man gewonnen hat.|
 | 12    |       Kann   |   Funktional   | Ich will, Dass man eine Karte hat um die Farbe neu zu wählen, dass es Cooler ist  |
-| 13    |       Kann   |   Funktional   | Ich will, Dass es   |
-| 14    |       Kann   |   Funktional   | Ich will, Dass man eine Karte hat um die Farbe neu zu wählen  |
+| 13    |       Kann   |   Funktional   | Ich will, Dass es eine Karte gibt, die den nächsten Gegner aussetzt, damit es cooler ist. |
+| 14    |       Kann   |   Funktional   | Ich will, Dass es eine karte hat, die die Spielrichtung wechselt, damit es cooler ist. |
 | 15    |       Kann   |   Funktional   | Ich will, Dass man eine Karte hat um die Farbe neu zu wählen  |
 | 16    |       Kann   |   Funktional   | Ich will, Dass man eine Karte hat um die Farbe neu zu wählen  |
 | 17    |       Kann   |   Funktional   | Ich will, Dass man eine Karte hat um die Farbe neu zu wählen  |
