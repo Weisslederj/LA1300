@@ -52,7 +52,7 @@ Wir machen ein Uno
 | 2.1  | Spiel wurde gestartet             |         |                   |
 | 3.1  |           |         |  Karten an Spieler verteilt  |
 | 4.1  | man braucht neue Karten              |Spieldekck wird gedrückt            |    man bekommt eine neue Karte               |
-| 5.1  |              |         |                   |
+| 5.1  | Karten abgelegt  | nächster Spieler    | Karten vom nächsten Spieler         |
 | 6.1  |              |         |                   |
 | 7.1  |              |         |                   |
 | 8.1  |              |         |                   |
