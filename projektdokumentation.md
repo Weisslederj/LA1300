@@ -53,14 +53,14 @@ Wir machen ein Uno in Windows Forms.
 | 3.1 |  Start des Spieles | - | 7 Karten werden an alle Spieler ausgeteilt  |                  
 | 4.1  |  Eigen Karten sind auf dem Screen           |   Karte wird auf den Spiel-stapel gelegt      |    Karte wird gelegt wenn sie auf den Stapel gelegt wird. |
 | 5.1  |  Spieler hat eine Karte gelegt            |   nächster-Spieler Button      |   Näschter Spielr kann Spielen                |
-| 6.1 |   Spieler hat keine Karten mehr           |  - |                    |
-| 7.1 |              |         |                   |
-| 8.1 |              |         |                   |
-| 9.1 |              |         |                   |
-| 10.1 |              |         |                   |
-| 11.1 |              |         |                   |
-
-
+| 6.1 |   Spieler hat keine Karten mehr           |  - |   Spiler gewinnt(Gewinner Animation)                 |
+| 7.1 |    Nach einer Runde nochmal Spielen          |   Nochmal Spielen      |    Uno Startet auswahl ob man mit gleich viel Personen Spielen will.       |
+| 8.1 |    Duplikat ist gleich wie 4.          |         |                   |
+| 10.1 |  Vor dem Spiel ein Menü           |   Menü-Button     |   Menü wird vor dem Spiel angezeigt                |
+| 11.1 |    Runden counter          |  q Runde vorbei    |      Rundencounter +1             |
+| 12.1 |     Karte die Farbe neu wünscht         |  Karte gelegt       |   Alle z.B. (Roten) Karten können auf dies Karte gelegt werden.             |
+| 13.1 |     Karte die Richtung Wechselt         |   Karte gelgt      |     Richtung der Spieler-Reihenfolge wird gewechselt.             |
+| 11.1 |  Karte die einen Spielr aussetzen lässt            |   Karte gelegt      |   nächster Spieler kann keine Karte legen.                |
 
 
 
