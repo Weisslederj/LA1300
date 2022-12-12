@@ -43,16 +43,22 @@ Wir machen ein Uno in Windows Forms.
 | TC-№ | Ausgangslage | Eingabe | Erwartete Ausgabe |
 | ---- | ------------ | ------- | ----------------- |
 | 1.1  | Spiel wird gestartet | - | Karten werden auf Tisch angezeigt.|
-| 2.1  | Spiel wurde gestartet             |         |                   |
-| 3.1  |           |         |  Karten an Spieler verteilt  |
-| 4.1  | man braucht neue Karten              |Spieldekck wird gedrückt            |    man bekommt eine neue Karte               |
-| 5.1  | Karten abgelegt  | nächster Spieler    | Karten vom nächsten Spieler         |
-| 6.1  | Spieler at keine Karten mehr |         | Spieler gewinnt     |
-| 7.1  |              |         |                   |
-| 8.1  |              |         |                   |
-| 9.1  |              |         |                   |
+| 1.2  | Spiel wurde gestartet             |  Karten kann gecklickt werden       |   Karte reagiert je nach Typ (eigene Karte,Kartenstapel usw.)            |
+| 1.3  |  Spiel wurde gestartet         | - |  Karten an Spieler verteilt  |
+| 4.1  | man braucht neue Karten              |Spieldeck wird gedrückt            |    man bekommt eine neue Karte               |
+| 5.1  | 1 Karten abgelegt  | nächster Spieler    | Karten vom nächsten Spieler werden angezeigt       |
+| 6.1  | Spieler hat keine Karten mehr |    -    | Spieler gewinnt     |
+
+| 2.1 |  Start       |  Ahnzahl der Spieler|   Spiel wird mit x Spieler gestartet |
+| 3.1 |  Start des Spieles | - | 7 Karten werden an alle Spieler ausgeteilt  |                  
+| 4.1  |  Eigen Karten sind auf dem Screen           |   Karte wird auf den Spiel-stapel gelegt      |    Karte wird gelegt wenn sie auf den Stapel gelegt wird. |
+| 5.1  |  Spieler hat eine Karte gelegt            |   nächster-Spieler Button      |   Näschter Spielr kann Spielen                |
+| 6.1 |   Spieler hat keine Karten mehr           |  - |                    |
+| 7.1 |              |         |                   |
+| 8.1 |              |         |                   |
+| 9.1 |              |         |                   |
+| 10.1 |              |         |                   |
 | 11.1 |              |         |                   |
-| 12.1 |              |         |                   |
 
 
 
