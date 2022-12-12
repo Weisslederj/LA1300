@@ -6,7 +6,7 @@ Honey: Spycher, Bächli, Müller, Nursiwat, Oesch
 | ----- | ------- | ------------------------------------------------------------ |
 | 22.11.22      | 0.0.1   | Wir haben uns mit WinForms bekannt gemacht und uns für ein Kartenspiel Projekt entschieden. |
 |29/11/22       | 0.0.2   |  Wir haben angefangen das Uno Spiel zu programmieren                                                            |
-|  06/12/22   | 0.0.3   |                                                              |
+|  06/12/22   | 0.0.3   |    Wir haben weiter programmiert und haben die meissten visuellen sachen fertig die spielllogik ist aber noch nicht fertig.       |
 |  13/12/22 | 0.0.4   |                                                              |
 |       | 0.0.0   |                                                              |
 
@@ -15,7 +15,7 @@ Honey: Spycher, Bächli, Müller, Nursiwat, Oesch
 
 ### 1.1 Ihr Projekt
 
-Wir machen ein Uno
+Wir machen ein Uno in Windows Forms.
 
 ### 1.2 User Stories
 
@@ -106,7 +106,7 @@ Total:
 
 ## 3 Entscheiden
 
-✍️ Dokumentieren Sie hier Ihre Entscheidungen und Annahmen, die Sie im Bezug auf Ihre User Stories und die Implementierung getroffen haben.
+Wir mussten entscheiden welche Regeln wir zum Uno hinzufügen.
 
 ## 4 Realisieren
 
