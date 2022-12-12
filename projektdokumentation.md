@@ -42,22 +42,18 @@ Wir machen ein Uno-Spiel in Windows Forms.
 | 1.1  | Spiel wird gestartet | - | Karten werden auf Tisch angezeigt.|
 | 1.2  | Spiel wurde gestartet             |  Karten kann gecklickt werden       |   Karte reagiert je nach Typ (eigene Karte,Kartenstapel usw.)            |
 | 1.3  |  Spiel wurde gestartet         | - |  Karten an Spieler verteilt  |
-| 4.1  | man braucht neue Karten              |Spieldeck wird gedrückt            |    man bekommt eine neue Karte               |
-| 5.1  | 1 Karten abgelegt  | nächster Spieler    | Karten vom nächsten Spieler werden angezeigt       |
-| 6.1  | Spieler hat keine Karten mehr |    -    | Spieler gewinnt     |
-| 7.1 |              |         |                   |
 | 2.1 |  Start       |  Ahnzahl der Spieler|   Spiel wird mit x Spieler gestartet |
 | 3.1 |  Start des Spieles | - | 7 Karten werden an alle Spieler ausgeteilt  |                  
 | 4.1  |  Eigen Karten sind auf dem Screen           |   Karte wird auf den Spiel-stapel gelegt      |    Karte wird gelegt wenn sie auf den Stapel gelegt wird. |
+| 4.2 |  Keine passende Karte gefunden            |   Kartendeck andrücken      |   1 Karte wird aufgenommen.                |
 | 5.1  |  Spieler hat eine Karte gelegt            |   nächster-Spieler Button      |   Näschter Spielr kann Spielen                |
 | 6.1 |   Spieler hat keine Karten mehr           |  - |   Spiler gewinnt(Gewinner Animation)                 |
 | 7.1 |    Nach einer Runde nochmal Spielen          |   Nochmal Spielen      |    Uno Startet auswahl ob man mit gleich viel Personen Spielen will.       |
-| 8.1 |    Duplikat ist gleich wie 4.          |         |                   |
-| 10.1 |  Vor dem Spiel ein Menü           |   Menü-Button     |   Menü wird vor dem Spiel angezeigt                |
-| 11.1 |    Runden counter          |  q Runde vorbei    |      Rundencounter +1             |
-| 12.1 |     Karte die Farbe neu wünscht         |  Karte gelegt       |   Alle z.B. (Roten) Karten können auf dies Karte gelegt werden.             |
-| 13.1 |     Karte die Richtung Wechselt         |   Karte gelgt      |     Richtung der Spieler-Reihenfolge wird gewechselt.             |
-| 11.1 |  Karte die einen Spielr aussetzen lässt            |   Karte gelegt      |   nächster Spieler kann keine Karte legen.                |
+| 8.1 |  Vor dem Spiel ein Menü           |   Menü-Button     |   Menü wird vor dem Spiel angezeigt                |
+| 9.1 |    Runden counter          |  q Runde vorbei    |      Rundencounter +1             |
+| 10.1 |     Karte die Farbe neu wünscht         |  Karte gelegt       |   Alle z.B. (Roten) Karten können auf dies Karte gelegt werden.             |
+| 11.1 |     Karte die Richtung Wechselt         |   Karte gelgt      |     Richtung der Spieler-Reihenfolge wird gewechselt.             |
+| 12.1 |  Karte die einen Spieler aussetzen lässt            |   Karte gelegt      |   nächster Spieler kann keine Karte legen.                |
 
 
 
