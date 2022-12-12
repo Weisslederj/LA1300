@@ -81,16 +81,38 @@ Wir machen ein Uno-Spiel in Windows Forms.
 
 | AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit |
 | ---- | ----- | --------- | ------------ | ------------- |
-| 1.A  |       | Nursiwat          | Der User werden Karten gegeben             |     30 min          |
-| 2.A  |       | Nursiwat          | Der User wird gefragt ob er noch eine Karte ziehen will           |   35 min            |
-| 3.A  |       | Nursiwat          | Die Karten sind immer gemischt             |  50 min            |
-| 4.A  |       | Nursiwat          | jede Karte hat eine andere Farbe und Nummer        | 60 min              |
-| 5.A  |       | Nursiwat          | Wenn man auf den Deck drückt bekommt man eine neue Karte             |  40 min             |
-| 6.A  |       | Nursiwat          |  Insgesamt gibt es 40 Karten            |  30 min             |
-| 7.A  |       |           |              |               |
-| 8.A  |       |           |              |               |
-| 9.A  |       |           |              |               |
-| 10.A |       |           |              |               |
+| 1.A  |  13.12.22     | Nursiwat          | Der User werden Karten gegeben             |     30 min          |
+| 1.B  |  13.12.22     | Nursiwat          | Der User wird gefragt ob er noch eine Karte ziehen will           |   35 min            |
+| 1.C  |  13.12.22     | Nursiwat          | Die Karten sind immer gemischt             |  50 min            |
+| 1.D  |  13.12.22     | Nursiwat          | jede Karte hat eine andere Farbe und Nummer        | 60 min              |
+| 1.E  |  13.12.22     | Nursiwat          | Wenn man auf den Deck drückt bekommt man eine neue Karte             |  40 min             |
+| 2.A  |   13.12.22    | Nursiwat          |  Insgesamt gibt es 40 Karten            |  30 min             |
+| 2.B  |  13.12.22     |           |              |               |
+| 3.A  |  13.12.22     |           |              |               |
+| 3.A  |   13.12.22    |           |              |               |
+| 3.A  |  13.12.22     |           |              |               |
+| 3.A  |  13.12.22     |           |              |               |
+| 3.A  |  13.12.22     |           |              |               |
+| 4.A  |  13.12.22     |           |              |               |
+| 4.A  |  13.12.22     |           |              |               |
+| 4.A  |  13.12.22     |           |              |               |
+| 5.A  |  13.12.22     |           |              |               |
+| 5.A  |  13.12.22     |           |              |               |
+| 5.A  |  13.12.22     |           |              |               |
+| 6.A  |  13.12.22     |           |              |               |
+| 6.A  |  13.12.22     |           |              |               |
+| 6.A  |  13.12.22     |           |              |               |
+| 7.A  |  13.12.22     |           |              |               |
+| 7.A  |  13.12.22     |           |              |               |
+| 8.A  |  13.12.22     |           |              |               |
+| 8.A  |  13.12.22     |           |              |               |
+| 9.A  |  13.12.22     |           |              |               |
+| 9.A  |  13.12.22     |           |              |               |
+| 10.A  |  13.12.22    |           |              |               |
+| 11.A  |  13.12.22    |           |              |               |
+| 12.A  |  13.12.22    |           |              |               |
+
+
 
 
 Total: 
