@@ -7,8 +7,8 @@ Honey: Spycher, Bächli, Müller, Nursiwat, Oesch
 | 22.11.22      | 0.0.1   | Wir haben uns mit WinForms bekannt gemacht und uns für ein Kartenspiel Projekt entschieden. |
 |29/11/22       | 0.0.2   |  Wir haben angefangen das Uno Spiel zu programmieren, vorallem mit dem Visuellen Sachen.          |
 |  06/12/22     | 0.0.3   |    Wir haben weiter programmiert und haben die meissten visuellen sachen fertig die spielllogik ist aber noch nicht fertig.       |
-|  13/12/22     | 0.0.4   |   Wir haben unsere Präsentation gehalten und ...                                                           |
-|  20/12/22     | 1.0.0   |                                                              |
+|  13/12/22     | 0.0.4   |   Wir haben unsere Präsentation gehalten und ...     |
+|  20/12/22     | 1.0.0   |        |
 
 
 ## 1 Informieren
@@ -81,38 +81,38 @@ Wir machen ein Uno-Spiel in Windows Forms.
 
 | AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit (min.) |
 | ---- | ----- | --------- | ------------ | ------------- |
-| 1.A  |  13.12.22     |  Spycher       |              |               |
-| 1.B  |  13.12.22     |   Oesch        |              |               |
-| 1.C  |  13.12.22     |   Nursiwat     |              |               |
-| 1.D  |  13.12.22     |     Müller     |              |               |
-| 1.E  |  13.12.22     |   Oesch        |              |               |
-| 2.A  |   13.12.22    |    Bächli      |              |               |
-| 2.B  |  13.12.22     |   Nursiwat     |              |               |
-| 3.A  |  13.12.22     |  Oesch         |              |               |
-| 3.A  |   13.12.22    |   Müller       |              |               |
-| 3.A  |  13.12.22     |   Müller       |              |               |
-| 3.A  |  13.12.22     |   Nursiwat     |              |               |
-| 3.A  |  13.12.22     |  Spycher       |              |               |
-| 4.A  |  13.12.22     |     Bächli     |              |               |
-| 4.A  |  13.12.22     |   Spycher      |              |               |
-| 4.A  |  13.12.22     |   Oesch        |              |               |
-| 5.A  |  13.12.22     |    Müller      |              |               |
-| 5.A  |  13.12.22     |     Bächli     |              |               |
-| 5.A  |  13.12.22     |   Nursiwat     |              |               |
-| 6.A  |  13.12.22     |    Müller      |              |               |
-| 6.A  |  13.12.22     |     Oesch      |              |               |
-| 6.A  |  13.12.22     |    Bächli      |              |               |
-| 7.A  |  13.12.22     |   Nursiwat     |              |               |
-| 7.A  |  13.12.22     |   Spycher      |              |               |
-| 8.A  |  13.12.22     |    Bächli      |              |               |
-| 8.A  |  13.12.22     |    Spycher     |              |               |
-| 9.A  |  13.12.22     |   Nursiwat     |              |               |
-| 9.A  |  13.12.22     |    Müller      |              |               |
-| 10.A  |  13.12.22    |   Spycher      |              |               |
-| 11.A  |  13.12.22    |    Oesch       |              |               |
-| 12.A  |  13.12.22    |    Bächli      |              |               |
+| 1.A  |  13.12.22     |  Spycher       |              |     45          |
+| 1.B  |  13.12.22     |   Oesch        |              |     45        |
+| 1.C  |  13.12.22     |   Nursiwat     |              |      45          |
+| 1.D  |  13.12.22     |     Müller     |              |         45       |
+| 1.E  |  13.12.22     |   Oesch        |              |            45    |
+| 2.A  |   13.12.22    |    Bächli      |              |               45 |
+| 2.B  |  13.12.22     |   Nursiwat     |              | 45               |
+| 3.A  |  13.12.22     |  Oesch         |              |    45            |
+| 3.A  |   13.12.22    |   Müller       |              |       45         |
+| 3.A  |  13.12.22     |   Müller       |              |          45      |
+| 3.A  |  13.12.22     |   Nursiwat     |              |             45   |
+| 3.A  |  13.12.22     |  Spycher       |              |45                |
+| 4.A  |  13.12.22     |     Bächli     |              |   45             |
+| 4.A  |  13.12.22     |   Spycher      |              |      45          |
+| 4.A  |  13.12.22     |   Oesch        |              |         45       |
+| 5.A  |  13.12.22     |    Müller      |              |            45    |
+| 5.A  |  13.12.22     |     Bächli     |              |               45|
+| 5.A  |  13.12.22     |   Nursiwat     |              |45               |
+| 6.A  |  13.12.22     |    Müller      |              |  45             |
+| 6.A  |  13.12.22     |     Oesch      |              |    45           |
+| 6.A  |  13.12.22     |    Bächli      |              |      45         |
+| 7.A  |  13.12.22     |   Nursiwat     |              |        45       |
+| 7.A  |  13.12.22     |   Spycher      |              |          45     |
+| 8.A  |  13.12.22     |    Bächli      |              |            45   |
+| 8.A  |  13.12.22     |    Spycher     |              |              45 |
+| 9.A  |  13.12.22     |   Nursiwat     |              |45               |
+| 9.A  |  13.12.22     |    Müller      |              |  45             |
+| 10.A  |  13.12.22    |   Spycher      |              |    45           |
+| 11.A  |  13.12.22    |    Oesch       |              |      45         |
+| 12.A  |  13.12.22    |    Bächli      |              |        45       |
 
-Total: ca. 900 min.
+Total:  810 min.
 
 
 ## 3 Entscheiden
