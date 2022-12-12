@@ -5,7 +5,7 @@ Honey: Spycher, Bächli, Müller, Nursiwat, Oesch
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
 | 22.11.22      | 0.0.1   | Wir haben uns mit WinForms bekannt gemacht und uns für ein Kartenspiel Projekt entschieden. |
-|29/11/22       | 0.0.2   |  Wir haben angefangen das Uno Spiel zu programmieren                                                            |
+|29/11/22       | 0.0.2   |  Wir haben angefangen das Uno Spiel zu programmieren, vorallem mit dem Visuellen Sachen.          |
 |  06/12/22   | 0.0.3   |    Wir haben weiter programmiert und haben die meissten visuellen sachen fertig die spielllogik ist aber noch nicht fertig.       |
 |  13/12/22 | 0.0.4   |                                                              |
 |       | 0.0.0   |                                                              |
