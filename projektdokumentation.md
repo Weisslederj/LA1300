@@ -40,8 +40,10 @@ Wir machen ein Uno-Spiel in Windows Forms.
 | TC-№ | Ausgangslage | Eingabe | Erwartete Ausgabe |
 | ---- | ------------ | ------- | ----------------- |
 | 1.1  | Spiel wird gestartet | - | Karten werden auf Tisch angezeigt.|
-| 1.2  | Spiel wurde gestartet             |  Karten kann gecklickt werden       |   Karte reagiert je nach Typ (eigene Karte,Kartenstapel usw.)            |
+| 1.2  | Spiel wurde gestartet   |  Karten kann gecklickt werden   |   Karte reagiert je nach Typ (eigene Karte,Kartenstapel usw.)  |
 | 1.3  |  Spiel wurde gestartet         | - |  Karten an Spieler verteilt  |
+| 1.4 |   Spiel wurde gestartet           |  Menü       |   Menü wird geöffnet    |
+| 1.5 |    Spiel wurde gestartet          |  Spieler ahnzahl ändern       |   Spieler werden während dem laufendem Spiel angepasst.    |
 | 2.1 |  Start       |  Ahnzahl der Spieler|   Spiel wird mit x Spieler gestartet |
 | 3.1 |  Start des Spieles | - | 7 Karten werden an alle Spieler ausgeteilt  |                  
 | 4.1  |  Eigen Karten sind auf dem Screen           |   Karte wird auf den Spiel-stapel gelegt      |    Karte wird gelegt wenn sie auf den Stapel gelegt wird. |
