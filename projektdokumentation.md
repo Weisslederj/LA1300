@@ -41,11 +41,16 @@ Wir machen ein Uno-Spiel in Windows Forms.
 | ---- | ------------ | ------- | ----------------- |
 | 1.1  | Spiel wird gestartet | - | Karten werden auf Tisch angezeigt.|
 | 1.2  | Spiel wurde gestartet   |  Karten kann gecklickt werden   |   Karte reagiert je nach Typ (eigene Karte,Kartenstapel usw.)  |
-| 1.3  |  Spiel wurde gestartet         | - |  Karten an Spieler verteilt  |
-| 1.4 |   Spiel wurde gestartet           |  Menü       |   Menü wird geöffnet    |
+| 1.3  |  Spiel wurde gestartet         | - |  Karten an Spieler verteilt.    |
+| 1.4 |  Spiel wurde gestartet | Menü Button | Menü wird geöffnet.  |
 | 1.5 |    Spiel wurde gestartet          |  Spieler ahnzahl ändern       |   Spieler werden während dem laufendem Spiel angepasst.    |
-| 2.1 |  Start       |  Ahnzahl der Spieler|   Spiel wird mit x Spieler gestartet |
-| 3.1 |  Start des Spieles | - | 7 Karten werden an alle Spieler ausgeteilt  |                  
+| 2.1 |   Start           |   Start-Button      |  Spiel wird gestartet.    |
+| 2.2 |  Start       |  Ahnzahl der Spieler|   Spiel wird mit x Spieler gestartet. |
+| 3.1 |   Start des Spieles      |   -      |  Modus auswahl wird angezeigt.      |
+| 3.2 |  Start des Spieles | Noraml Modus | 7 Karten werden an alle Spieler ausgeteilt.|
+| 3.3 |  Start des Spieles | Fast Modus | 5 Karten werden an alle Spieler ausgeteilt.  | 
+| 3.4 |  Start des Spieles | Long Modus | 10 Karten werden an alle Spieler ausgeteilt. |
+| 3.5 |  Start des Spieles | Belibige Karten Modus | Belibig viele Karten werden an alle Spieler ausgeteilt.  |
 | 4.1  |  Eigen Karten sind auf dem Screen           |   Karte wird auf den Spiel-stapel gelegt      |    Karte wird gelegt wenn sie auf den Stapel gelegt wird. |
 | 4.2 |  Keine passende Karte gefunden            |   Kartendeck andrücken      |   1 Karte wird aufgenommen.                |
 | 5.1  |  Spieler hat eine Karte gelegt            |   nächster-Spieler Button      |   Näschter Spielr kann Spielen                |
