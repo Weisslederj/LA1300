@@ -48,7 +48,7 @@ Wir machen ein Uno in Windows Forms.
 | 4.1  | man braucht neue Karten              |Spieldeck wird gedrückt            |    man bekommt eine neue Karte               |
 | 5.1  | 1 Karten abgelegt  | nächster Spieler    | Karten vom nächsten Spieler werden angezeigt       |
 | 6.1  | Spieler hat keine Karten mehr |    -    | Spieler gewinnt     |
-
+| 7.1 |              |         |                   |
 | 2.1 |  Start       |  Ahnzahl der Spieler|   Spiel wird mit x Spieler gestartet |
 | 3.1 |  Start des Spieles | - | 7 Karten werden an alle Spieler ausgeteilt  |                  
 | 4.1  |  Eigen Karten sind auf dem Screen           |   Karte wird auf den Spiel-stapel gelegt      |    Karte wird gelegt wenn sie auf den Stapel gelegt wird. |
