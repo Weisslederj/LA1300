@@ -15,7 +15,7 @@ Honey: Spycher, Bächli, Müller, Nursiwat, Oesch
 
 ### 1.1 Ihr Projekt
 
-Wir machen ein Uno in Windows Forms.
+Wir machen ein Uno-Spiel in Windows Forms.
 
 ### 1.2 User Stories
 
