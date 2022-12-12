@@ -123,36 +123,36 @@ Wir mussten entscheiden welche Regeln wir zum Uno hinzufügen.
 
 | AP-№ | Datum | Zuständig | geplante Zeit | tatsächliche Zeit |
 | ---- | ----- | --------- | ------------- | ----------------- |
-| 1.A  |  13.12.22     |  Spycher       |              |               |
-| 1.B  |  13.12.22     |   Oesch        |              |               |
-| 1.C  |  13.12.22     |   Nursiwat     |              |               |
-| 1.D  |  13.12.22     |     Müller     |              |               |
-| 1.E  |  13.12.22     |   Oesch        |              |               |
-| 2.A  |   13.12.22    |    Bächli      |              |               |
-| 2.B  |  13.12.22     |   Nursiwat     |              |               |
-| 3.A  |  13.12.22     |  Oesch         |              |               |
-| 3.B |   13.12.22    |   Müller       |              |               |
-| 3.C  |  13.12.22     |   Müller       |              |               |
-| 3.D  |  13.12.22     |   Nursiwat     |              |               |
-| 3.E  |  13.12.22     |  Spycher       |              |               |
-| 4.A  |  13.12.22     |     Bächli     |              |               |
-| 4.B  |  13.12.22     |   Spycher      |              |               |
-| 4.C  |  13.12.22     |   Oesch        |              |               |
-| 5.A  |  13.12.22     |    Müller      |              |               |
-| 5.B  |  13.12.22     |     Bächli     |              |               |
-| 5.C  |  13.12.22     |   Nursiwat     |              |               |
-| 6.A  |  13.12.22     |    Müller      |              |               |
-| 6.B  |  13.12.22     |     Oesch      |              |               |
-| 6.C  |  13.12.22     |    Bächli      |              |               |
-| 7.A  |  13.12.22     |   Nursiwat     |              |               |
-| 7.B  |  13.12.22     |   Spycher      |              |               |
-| 8.A  |  13.12.22     |    Bächli      |              |               |
-| 8.B  |  13.12.22     |    Spycher     |              |               |
-| 9.A  |  13.12.22     |   Nursiwat     |              |               |
-| 9.B  |  13.12.22     |    Müller      |              |               |
-| 10.A  |  13.12.22    |   Spycher      |              |               |
-| 11.A  |  13.12.22    |    Oesch       |              |               |
-| 12.A  |  13.12.22    |    Bächli      |              |               |
+| 1.A  |  13.12.22     |  Spycher       |45              |               |
+| 1.B  |  13.12.22     |   Oesch        |  45            |               |
+| 1.C  |  13.12.22     |   Nursiwat     |    45          |               |
+| 1.D  |  13.12.22     |     Müller     |      45        |               |
+| 1.E  |  13.12.22     |   Oesch        |        45      |               |
+| 2.A  |   13.12.22    |    Bächli      |          45    |               |
+| 2.B  |  13.12.22     |   Nursiwat     |            45  |               |
+| 3.A  |  13.12.22     |  Oesch         |              45|               |
+| 3.B |   13.12.22    |   Müller       |45              |               |
+| 3.C  |  13.12.22     |   Müller       | 45             |               |
+| 3.D  |  13.12.22     |   Nursiwat     |   45           |               |
+| 3.E  |  13.12.22     |  Spycher       |     45         |               |
+| 4.A  |  13.12.22     |     Bächli     |       45       |               |
+| 4.B  |  13.12.22     |   Spycher      |         45     |               |
+| 4.C  |  13.12.22     |   Oesch        |           45   |               |
+| 5.A  |  13.12.22     |    Müller      |             45 |               |
+| 5.B  |  13.12.22     |     Bächli     |45              |               |
+| 5.C  |  13.12.22     |   Nursiwat     |  45            |               |
+| 6.A  |  13.12.22     |    Müller      |    45          |               |
+| 6.B  |  13.12.22     |     Oesch      |      45        |               |
+| 6.C  |  13.12.22     |    Bächli      |        45      |               |
+| 7.A  |  13.12.22     |   Nursiwat     |          45    |               |
+| 7.B  |  13.12.22     |   Spycher      |            45  |               |
+| 8.A  |  13.12.22     |    Bächli      |              45|               |
+| 8.B  |  13.12.22     |    Spycher     |45              |               |
+| 9.A  |  13.12.22     |   Nursiwat     |  45            |               |
+| 9.B  |  13.12.22     |    Müller      |    45          |               |
+| 10.A  |  13.12.22    |   Spycher      |      45        |               |
+| 11.A  |  13.12.22    |    Oesch       |        45      |               |
+| 12.A  |  13.12.22    |    Bächli      |          45    |               |
 
 ## 5 Kontrollieren
 
