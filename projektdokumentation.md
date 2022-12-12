@@ -28,15 +28,12 @@ Wir machen ein Uno in Windows Forms.
 | 5    |        Muss   |   Funktional   | Ich will, dass nach einer gelegten Karte der nächste Spieler dran ist, damit alle spielen können.|
 | 6    |        Muss   |   Funktional   | Ich will, dass sobald einer keine Karten mehr hat das Spiel gewinnt, dass es ein Ende gibt.|
 | 7    |        Muss   |   Funktional   | Ich will, dass man nach einer Runde gefragt wird ob man nochmals spielen möchte, dass das Programm nicht neugestartet werden muss.|
-| 8    |        Muss   |   Funktional   | Ich will, dass man Karten legen kann, damit das Spiel gespielt werden kann.|
-| 10    |       Muss   |   Funktional   | Ich will, dass man ein Spielmenu vor dem Start des Spiel aufrufen kann, damit man interessantere Spiele hat.|
-| 11    |       Kann   |   Funktional   | Ich will, dass ein Rundencounter angezeigt wird, damit man weiss in welcher Runde man gewonnen hat.|
-| 12    |       Kann   |   Funktional   | Ich will, dass man eine Karte hat um die Farbe neu zu wählen, dass es Cooler ist  |
-| 13    |       Kann   |   Funktional   | Ich will, dass es eine Karte gibt, die den nächsten Gegner aussetzt, damit es cooler ist. |
-| 14    |       Kann   |   Funktional   | Ich will, dass es eine karte hat, die die Spielrichtung wechselt, damit es cooler ist. |
-| 15    |       Kann   |   Funktional   | Ich will, dass man eine Karte hat um die Farbe neu zu wählen  |
-| 16    |       Kann   |   Funktional   | Ich will, dass man eine Karte hat um die Farbe neu zu wählen  |
-| 17    |       Kann   |   Funktional   | Ich will, dass man eine Karte hat um die Farbe neu zu wählen  |
+| 8    |       Muss   |   Funktional   | Ich will, dass man ein Spielmenu vor dem Start des Spiel aufrufen kann, damit man interessantere Spiele hat.|
+| 9    |       Kann   |   Funktional   | Ich will, dass ein Rundencounter angezeigt wird, damit man weiss in welcher Runde man gewonnen hat.|
+| 10    |       Kann   |   Funktional   | Ich will, dass man eine Karte hat um die Farbe neu zu wählen, dass es Cooler ist  |
+| 11    |       Kann   |   Funktional   | Ich will, dass es eine Karte gibt, die den nächsten Gegner aussetzt, damit es cooler ist. |
+| 12   |       Kann   |   Funktional   | Ich will, dass es eine karte hat, die die Spielrichtung wechselt, damit es cooler ist. |
+
 
 ### 1.3 Testfälle
 
