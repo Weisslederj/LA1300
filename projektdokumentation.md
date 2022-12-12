@@ -38,12 +38,6 @@ Wir machen ein Uno in Windows Forms.
 | 16    |       Kann   |   Funktional   | Ich will, dass man eine Karte hat um die Farbe neu zu wählen  |
 | 17    |       Kann   |   Funktional   | Ich will, dass man eine Karte hat um die Farbe neu zu wählen  |
 
-
-
-
-
-✍️ Jede User Story hat eine ganzzahlige Nummer (1, 2, 3 etc.), eine Verbindlichkeit (Muss oder Kann?), und einen Typ (Funktional, Qualität, Rand). Die User Story selber hat folgende Form: *Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️*.
-
 ### 1.3 Testfälle
 
 | TC-№ | Ausgangslage | Eingabe | Erwartete Ausgabe |
@@ -59,23 +53,7 @@ Wir machen ein Uno in Windows Forms.
 | 9.1  |              |         |                   |
 | 11.1 |              |         |                   |
 | 12.1 |              |         |                   |
-| 13.1 |              |         |                   |
-| 14.1 |              |         |                   |
-| 15.1 |              |         |                   |
-| 16.1 |              |         |                   |
-| 17.1 |              |         |                   |
-| 18.1 |              |         |                   |
-| 19.1 |              |         |                   |
-| 21.1 |              |         |                   |
-| 22.1 |              |         |                   |
-| 23.1 |              |         |                   |
-| 24.1 |              |         |                   |
-| 25.1 |              |         |                   |
-| 26.1 |              |         |                   |
-| 27.1 |              |         |                   |
-| 28.1 |              |         |                   |
-| 29.1 |              |         |                   |
-| 30.1 |              |         |                   |
+
 
 
 
