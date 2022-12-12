@@ -51,13 +51,21 @@ Wir machen ein Uno-Spiel in Windows Forms.
 | 3.3 |  Start des Spieles | Fast Modus | 5 Karten werden an alle Spieler ausgeteilt.  | 
 | 3.4 |  Start des Spieles | Long Modus | 10 Karten werden an alle Spieler ausgeteilt. |
 | 3.5 |  Start des Spieles | Belibige Karten Modus | Belibig viele Karten werden an alle Spieler ausgeteilt.  |
-| 4.1  |  Eigen Karten sind auf dem Screen           |   Karte wird auf den Spiel-stapel gelegt      |    Karte wird gelegt wenn sie auf den Stapel gelegt wird. |
-| 4.2 |  Keine passende Karte gefunden            |   Kartendeck andrücken      |   1 Karte wird aufgenommen.                |
-| 5.1  |  Spieler hat eine Karte gelegt            |   nächster-Spieler Button      |   Näschter Spielr kann Spielen                |
-| 6.1 |   Spieler hat keine Karten mehr           |  - |   Spiler gewinnt(Gewinner Animation)                 |
+| 4.1  |  Eigen Karten sind auf dem Screen           |   Karte wird angewählt und auf den Stapel gelegt  |    Karte wird gelegt wenn sie auf den Stapel gelegt wird. |
+| 4.2 |  Karte passt nicht auf das deck            |   Karte auf das Deck gelegt     |   Karte wird zu ihren karten zurückgelegt.    |
+| 4.3 |  Keine passende Karte gefunden            |   Kartendeck andrücken      |   1 Karte wird aufgenommen.     |
+| 5.1  |  Spieler hat eine Karte gelegt            |   nächster-Spieler Button      |   Näschter Spieler kann Spielen      |
+| 5.2  |  Spieler hat weiter gedrückt           |   -     |   Blackscreen sodass man die karten noch vom gegner nicht sieht.     |
+| 5.3  |  Blackscreen           |   Enter     |   Nächster Spieler karten werden aufgedeckt     |
+| 6.1 |   Spieler hat keine Karten mehr           |  - |   Spiler gewinnt     |
+| 6.2 |   Spieler hat keine Karten mehr           |  - |   Gewinner animation     |
+| 6.3 |   Runden-Counter wird gestoppt und wird angezeigt           |  - |   Wird in tabelle eingefügt top 3 werden angezeigt.     |
 | 7.1 |    Nach einer Runde nochmal Spielen          |   Nochmal Spielen      |    Uno Startet auswahl ob man mit gleich viel Personen Spielen will.       |
-| 8.1 |  Vor dem Spiel ein Menü           |   Menü-Button     |   Menü wird vor dem Spiel angezeigt                |
-| 9.1 |    Runden counter          |  q Runde vorbei    |      Rundencounter +1             |
+| 7.2 |   Uno Startet auswahl ob man mit gleich viel Personen Spielen will.   |   Gleich viele      |    Uno startet mit gleich vielen Spielern.|
+| 8.1 |  Menü vor und Während dem Spiel          |   Menü-Button     |   Menü wird vor dem Spiel angezeigt     |
+| 8.2 |  Während dem Spiel     |   Menü-Button gedrückt |   Spiel wird Pausiert Optionen Erscheinen Frühzeitig beenden, Spieler hinzufügen und zurück zum Spiel.     |
+| 9.1 |    Runden counter          |   Runde vorbei    |      Rundencounter +1   |
+| 9.2 |    Runden gewonnen         |  -   |      Runden Counter Speichert und wird mit top 3 verglichen, eingefügt.  |
 | 10.1 |     Karte die Farbe neu wünscht         |  Karte gelegt       |   Alle z.B. (Roten) Karten können auf dies Karte gelegt werden.             |
 | 11.1 |     Karte die Richtung Wechselt         |   Karte gelgt      |     Richtung der Spieler-Reihenfolge wird gewechselt.             |
 | 12.1 |  Karte die einen Spieler aussetzen lässt            |   Karte gelegt      |   nächster Spieler kann keine Karte legen.                |
