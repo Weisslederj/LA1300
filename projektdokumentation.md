@@ -41,7 +41,7 @@ Wir machen ein Uno-Spiel in Windows Forms.
 | ---- | ------------ | ------- | ----------------- |
 | 1.1  | Spiel wird gestartet | - | Karten werden auf Tisch angezeigt.|
 | 1.2  | Spiel wurde gestartet   |  Karten kann gecklickt werden   |   Karte reagiert je nach Typ (eigene Karte,Kartenstapel usw.)  |
-| 1.3  |  Spiel wurde gestartet         | - |  Karten an Spieler verteilt.    |
+| 1.3  |  Spiel wurde gestartet         | Modus auswählen |  Karten an Spieler verteilt.    |
 | 1.4 |  Spiel wurde gestartet | Menü Button | Menü wird geöffnet.  |
 | 1.5 |    Spiel wurde gestartet          |  Spieler ahnzahl ändern       |   Spieler werden während dem laufendem Spiel angepasst.    |
 | 2.1 |   Start           |   Start-Button      |  Spiel wird gestartet.    |
