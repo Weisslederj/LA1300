@@ -84,7 +84,7 @@ Wir machen ein Uno-Spiel in Windows Forms.
 | 1.A  |  13.12.22     |  Spycher       |              |     45          |
 | 1.B  |  13.12.22     |   Oesch        |              |     45        |
 | 1.C  |  13.12.22     |   Nursiwat     |              |      45          |
-| 1.D  |  13.12.22     |     Müller     |              |         45       |
+| 1.D  |  13.12.22     |     Müller     |              |         100       |
 | 1.E  |  13.12.22     |   Oesch        |              |            45    |
 | 2.A  |   13.12.22    |    Bächli      |              |               45 |
 | 2.B  |  13.12.22     |   Nursiwat     |              | 45               |
@@ -92,9 +92,9 @@ Wir machen ein Uno-Spiel in Windows Forms.
 | 3.B  |   13.12.22    |   Müller       |              |       45         |
 | 3.C  |  13.12.22     |   Müller       |              |          45      |
 | 3.D  |  13.12.22     |   Nursiwat     |              |             45   |
-| 3.E  |  13.12.22     |  Spycher       |              |45                |
+| 3.E  |  13.12.22     |  Spycher       |              |65                |
 | 4.A  |  13.12.22     |     Bächli     |              |   45             |
-| 4.B  |  13.12.22     |   Spycher      |              |      45          |
+| 4.B  |  13.12.22     |   Spycher      |              |      30          |
 | 4.C  |  13.12.22     |   Oesch        |              |         45       |
 | 5.A  |  13.12.22     |    Müller      |              |            45    |
 | 5.B  |  13.12.22     |     Bächli     |              |               45|
@@ -103,12 +103,12 @@ Wir machen ein Uno-Spiel in Windows Forms.
 | 6.B  |  13.12.22     |     Oesch      |              |    45           |
 | 6.C  |  13.12.22     |    Bächli      |              |      45         |
 | 7.A  |  13.12.22     |   Nursiwat     |              |        45       |
-| 7.B  |  13.12.22     |   Spycher      |              |          45     |
+| 7.B  |  13.12.22     |   Spycher      |              |          60     |
 | 8.A  |  13.12.22     |    Bächli      |              |            45   |
 | 8.B  |  13.12.22     |    Spycher     |              |              45 |
 | 9.A  |  13.12.22     |   Nursiwat     |              |45               |
 | 9.B  |  13.12.22     |    Müller      |              |  45             |
-| 10.A  |  13.12.22    |   Spycher      |              |    45           |
+| 10.A  |  13.12.22    |   Spycher      |              |    30           |
 | 11.A  |  13.12.22    |    Oesch       |              |      45         |
 | 12.A  |  13.12.22    |    Bächli      |              |        45       |
 
