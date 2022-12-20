@@ -30,4 +30,4 @@ Wir haben gelernt wie man eine Picturebox an eine neue Position setzen kann.
    Wir waren nicht immer so konzentriert.
  
 
-**VBV**: ✍️ Formulieren Sie davon ausgehend einen *handelbaren* Verbesserungsvorschlag.
+**VBV**: ✍️  Einen Verbesserungsvorschlag
