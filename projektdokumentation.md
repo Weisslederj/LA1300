@@ -160,8 +160,40 @@ Wir mussten entscheiden welche Regeln wir zum Uno hinzufügen.
 
 | TC-№ | Datum | Resultat | Tester |
 | ---- | ----- | -------- | ------ |
-| 1.1  |       |          |        |
-| ...  |       |          |        |
+| 1.1  | 20.12.22      |          | Oesch       |
+| 1.2  | 20.12.22      |          | Oesch       |
+| 1.3  | 20.12.22      |          | Oesch       |
+| 1.4  | 20.12.22      |          | Oesch       |
+| 1.5  | 20.12.22      |          | Oesch       |
+| 2.1  | 20.12.22      |          | Oesch       |
+| 2.2  | 20.12.22      |          | Oesch       |
+| 3.1  | 20.12.22      |          | Oesch       |
+| 3.2  | 20.12.22      |          | Oesch       |
+| 3.3  | 20.12.22      |          | Oesch       |
+| 3.4  | 20.12.22      |          | Oesch       |
+| 3.5  | 20.12.22      |          | Oesch       |
+| 4.1  | 20.12.22      |          | Oesch       |
+| 4.2  | 20.12.22      |          | Oesch       |
+| 4.3  | 20.12.22      |          | Oesch       |
+| 5.1  | 20.12.22      |          | Oesch       |
+| 5.2  | 20.12.22      |          | Oesch       |
+| 5.3  | 20.12.22      |          | Oesch       |
+| 6.1  | 20.12.22      |          | Oesch       |
+| 6.2  | 20.12.22      |          | Oesch       |
+| 6.3  | 20.12.22      |          | Oesch       |
+| 7.1  | 20.12.22      |          | Oesch       |
+| 7.2  | 20.12.22      |          | Oesch       |
+| 8.1  | 20.12.22      |          | Oesch       |
+| 8.2  | 20.12.22      |          | Oesch       |
+| 9.1  | 20.12.22      |          | Oesch       |
+| 9.2  | 20.12.22      |          | Oesch       |
+| 10.1  | 20.12.22     |          | Oesch       |
+| 11.1  | 20.12.22     |          | Oesch       |
+| 12.1  | 20.12.22     |          | Oesch       |
+
+
+
+
 
 ✍️ Vergessen Sie nicht, ein Fazit hinzuzufügen, welches das Test-Ergebnis einordnet.
 ## 6 Auswerten
