@@ -3,7 +3,7 @@ Gruppe Honey von Jonah Oesch, Xavier Nursivat, Damian Müller, Sven Bächli und 
 
 ## Einleitung
 
-✍️ Ein Satz, worum es in dem Projekt ging. Muss für einen externen Leser einfach zu verstehen sein.
+Wir Programmieren das bekannte Kartenspiel Uno mit Windows Forms.
 
 ## Was habe ich gelernt?
 
@@ -13,10 +13,7 @@ Gruppe Honey von Jonah Oesch, Xavier Nursivat, Damian Müller, Sven Bächli und 
 
 ✍️ Verwenden Sie drei verschiedene Medien, um zu zeigen, was Sie gelernt haben. Zum Beispiel:
 
-* Eine textliche Beschreibung
-* Ein deutliches, aussagekräftiges Bild oder eine kommentierte Bildschirm-Aufnahme
-* Ein gut dokumentierter Code-Fetzen
-* Ein Link zu einem *selbst aufgenommenen* youtube-Video oder `.gif`.
+
 
 ## Verifikation
 
