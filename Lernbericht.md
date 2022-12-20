@@ -25,7 +25,8 @@ Wir Programmieren das bekannte Kartenspiel Uno mit Windows Forms.
    
 
 👎 Unsere Absprache war nicht immer so gut und so kam es manchmal zu Komplikationen.
-   Wir waren nicht immer so konzentriert
+   Wir wussten manchmal nicht was man machen soll da unsere Absprache nicht gut war.
+   Wir waren nicht immer so konzentriert.
  
 
 **VBV**: ✍️ Formulieren Sie davon ausgehend einen *handelbaren* Verbesserungsvorschlag.
