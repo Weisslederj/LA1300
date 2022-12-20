@@ -1,5 +1,5 @@
 # Lern-Bericht
-✍️ ggf. Ihr Gruppenname und Ihre Gruppenmitglieder
+Gruppe Honey von Jonah Oesch, Xavier Nursivat, Damian Müller, Sven Bächli und Elias Spycher
 
 ## Einleitung
 
