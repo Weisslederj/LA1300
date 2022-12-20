@@ -51,7 +51,7 @@ Wir machen ein Uno-Spiel in Windows Forms.
 | 3.3 |  Start des Spieles | Fast Modus | 5 Karten werden an alle Spieler ausgeteilt.  | 
 | 3.4 |  Start des Spieles | Long Modus | 10 Karten werden an alle Spieler ausgeteilt. |
 | 3.5 |  Start des Spieles | Belibige Karten Modus | Belibig viele Karten werden an alle Spieler ausgeteilt.  |
-| 4.1  |  Eigen Karten sind auf dem Screen           |   Karte wird angewählt und auf den Stapel gelegt  |    Karte wird gelegt wenn sie auf den Stapel gelegt wird. |
+| 4.1  |  Eigene Karten sind auf dem Screen           |   Karte wird angewählt und auf den Stapel gelegt  |    Karte wird gelegt wenn sie auf den Stapel gelegt wird. |
 | 4.2 |  Karte passt nicht auf das deck            |   Karte auf das Deck gelegt     |   Karte wird zu ihren karten zurückgelegt.    |
 | 4.3 |  Keine passende Karte gefunden            |   Kartendeck andrücken      |   1 Karte wird aufgenommen.     |
 | 5.1  |  Spieler hat eine Karte gelegt            |   nächster-Spieler Button      |   Näschter Spieler kann Spielen      |
@@ -81,21 +81,21 @@ Wir machen ein Uno-Spiel in Windows Forms.
 
 | AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit (min.) |
 | ---- | ----- | --------- | ------------ | ------------- |
-| 1.A  |  13.12.22     |  Spycher       |              |     45          |
-| 1.B  |  13.12.22     |   Oesch        |              |     45        |
-| 1.C  |  13.12.22     |   Nursiwat     |              |      45          |
-| 1.D  |  13.12.22     |     Müller     |              |         100       |
-| 1.E  |  13.12.22     |   Oesch        |              |            45    |
-| 2.A  |   13.12.22    |    Bächli      |              |               45 |
-| 2.B  |  13.12.22     |   Nursiwat     |              | 45               |
-| 3.A  |  13.12.22     |  Oesch         |              |    45            |
-| 3.B  |   13.12.22    |   Müller       |              |       45         |
-| 3.C  |  13.12.22     |   Müller       |              |          45      |
-| 3.D  |  13.12.22     |   Nursiwat     |              |             45   |
-| 3.E  |  13.12.22     |  Spycher       |              |65                |
-| 4.A  |  13.12.22     |     Bächli     |              |   45             |
-| 4.B  |  13.12.22     |   Spycher      |              |      30          |
-| 4.C  |  13.12.22     |   Oesch        |              |         45       |
+| 1.A  |  13.12.22     |  Spycher       |  Visuele Kraten sind auf dem Tisch.            |     45          |
+| 1.B  |  13.12.22     |   Oesch        |   Karten reagiern auf den User.           |     45        |
+| 1.C  |  13.12.22     |   Nursiwat     |  Modi können ausgewählt werden.            |      45          |
+| 1.D  |  13.12.22     |     Müller     |  Menü ist vorhanden und kann benutz werden.           |         45       |
+| 1.E  |  13.12.22     |   Oesch        |   Anzahl User kann ausgewählt werden.           |            45    |
+| 2.A  |   13.12.22    |    Bächli      |  Ein Start Button der das Spiel startet.            |               45 |
+| 2.B  |  13.12.22     |   Nursiwat     |  Das Spiel wird mit x vilen Spileren gestatrtet.            | 45               |
+| 3.A  |  13.12.22     |  Oesch         |   Alle Modis werden beim Start angezeigt.           |    45            |
+| 3.B  |   13.12.22    |   Müller       |  Normaler Modus mit 7 Karten an alle Spieler            |       45         |
+| 3.C  |  13.12.22     |   Müller       |  Schneller Modus mit 5 Karten an alle Spieler.            |          45      |
+| 3.D  |  13.12.22     |   Nursiwat     |   Langsamer Modus mit 10 Karten pro Spieler           |             45   |
+| 3.E  |  13.12.22     |  Spycher       |   Beliebt viele Karten Modus, wo man die Kartenmenge selbst Einstellen kann.           |60                |
+| 4.A  |  13.12.22     |     Bächli     | Karten können auf den Stapel gelegt werden.             |   45             |
+| 4.B  |  13.12.22     |   Spycher      |  Karten können vom aufnehem Stapel aufgenommen werden und werden zum User seinen              |      45          |
+| 4.C  |  13.12.22     |   Oesch        |              |         45       | 
 | 5.A  |  13.12.22     |    Müller      |              |            45    |
 | 5.B  |  13.12.22     |     Bächli     |              |               45|
 | 5.C  |  13.12.22     |   Nursiwat     |              |45               |
@@ -108,7 +108,7 @@ Wir machen ein Uno-Spiel in Windows Forms.
 | 8.B  |  13.12.22     |    Spycher     |              |              45 |
 | 9.A  |  13.12.22     |   Nursiwat     |              |45               |
 | 9.B  |  13.12.22     |    Müller      |              |  45             |
-| 10.A  |  13.12.22    |   Spycher      |              |    30           |
+| 10.A  |  13.12.22    |   Spycher      |              |    45           |
 | 11.A  |  13.12.22    |    Oesch       |              |      45         |
 | 12.A  |  13.12.22    |    Bächli      |              |        45       |
 
