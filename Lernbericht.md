@@ -7,11 +7,15 @@ Wir Programmieren das bekannte Kartenspiel Uno mit Windows Forms.
 
 ## Was habe ich gelernt?
 
-✍️ Beschreiben Sie in einem Satz **eine** Sache, die Sie bei diesem Projekt gelernt haben und die Sie in diesem Lern-Bericht dokumentieren.
+Wir haben gelernt wie man eine Picturebox an eine neue Position setzen kann.
 
 ## Beschreibung
 
-✍️ Verwenden Sie drei verschiedene Medien, um zu zeigen, was Sie gelernt haben. Zum Beispiel:
+ 
+ private void checkBox2_CheckedChanged(object sender, EventArgs e)
+        {
+             pictureBox2.Location = new Point(339, 92);
+        }
 
 
 
