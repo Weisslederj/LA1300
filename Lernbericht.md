@@ -22,7 +22,7 @@ Wir haben gelernt wie man eine Picturebox an eine neue Position setzen kann.
 
 # Reflexion zum Arbeitsprozess
 
-👍 Wir konnten mit Windows Forms vieles neues lernen.
+ 👍 Wir konnten mit Windows Forms vieles neues lernen.
    
 
 👎 Unsere Absprache war nicht immer so gut und so kam es manchmal zu Komplikationen.
