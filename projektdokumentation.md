@@ -94,9 +94,9 @@ Wir machen ein Uno-Spiel in Windows Forms.
 | 3.D  |  13.12.22     |   Nursiwat     |   Langsamer Modus mit 10 Karten pro Spieler           |             45   |
 | 3.E  |  13.12.22     |  Spycher       |   Beliebt viele Karten Modus, wo man die Kartenmenge selbst Einstellen kann.           |60                |
 | 4.A  |  13.12.22     |     Bächli     | Karten können auf den Stapel gelegt werden.             |   45             |
-| 4.B  |  13.12.22     |   Spycher      |  Karten können vom aufnehem Stapel aufgenommen werden und werden zum User seinen              |      45          |
-| 4.C  |  13.12.22     |   Oesch        |              |         45       | 
-| 5.A  |  13.12.22     |    Müller      |              |            45    |
+| 4.B  |  13.12.22     |   Spycher      |  Karten können vom aufnehem Stapel aufgenommen werden und werden zum User seinen    |      45          |
+| 4.C  |  13.12.22     |   Oesch        |  Wenn die Karte nicht passt dann wird sie zum User seinen KArten zurückgelegt und der aufnehme Stapel leuchtet auf.             |         45       | 
+| 5.A  |  13.12.22     |    Müller      |  Wen man eine Karte gelegt hat, dann wird ein nächster-Spielr Button erscheinen.            |            45    |
 | 5.B  |  13.12.22     |     Bächli     |              |               45|
 | 5.C  |  13.12.22     |   Nursiwat     |              |45               |
 | 6.A  |  13.12.22     |    Müller      |              |  45             |
