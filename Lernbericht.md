@@ -10,15 +10,12 @@ Wir Programmieren das bekannte Kartenspiel Uno mit Windows Forms.
 Wir haben gelernt wie man eine Picturebox an eine neue Position setzen kann.
 
 ## Beschreibung
-
- 
- private void checkBox2_CheckedChanged(object sender, EventArgs e)
+```
+  private void checkBox2_CheckedChanged(object sender, EventArgs e)
         {
              pictureBox2.Location = new Point(339, 92);
         }
-
-
-
+```
 ## Verifikation
 
 ✍️ Erklären Sie kurz und bündig, inwiefern die von Ihnen verwendeten Medien zeigen, was Sie gelernt haben.
