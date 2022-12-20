@@ -191,11 +191,8 @@ Wir mussten entscheiden welche Regeln wir zum Uno hinzufügen.
 | 11.1  | 20.12.22     |          | Oesch       |
 | 12.1  | 20.12.22     |          | Oesch       |
 
+Fazit: Das Programm ...
 
-
-
-
-✍️ Vergessen Sie nicht, ein Fazit hinzuzufügen, welches das Test-Ergebnis einordnet.
 ## 6 Auswerten
 
 [Lernbericht](https://github.com/Weisslederj/LA1300/blob/main/Lernbericht.md)
