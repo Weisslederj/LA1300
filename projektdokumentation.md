@@ -166,4 +166,4 @@ Wir mussten entscheiden welche Regeln wir zum Uno hinzufügen.
 ✍️ Vergessen Sie nicht, ein Fazit hinzuzufügen, welches das Test-Ergebnis einordnet.
 ## 6 Auswerten
 
-✍️ Fügen Sie hier eine Verknüpfung zu Ihrem Lern-Bericht ein.
+https://github.com/Weisslederj/LA1300/blob/main/Lernbericht.md
