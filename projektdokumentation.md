@@ -160,36 +160,36 @@ Wir mussten entscheiden welche Regeln wir zum Uno hinzufügen.
 
 | TC-№ | Datum | Resultat | Tester |
 | ---- | ----- | -------- | ------ |
-| 1.1  | 20.12.22      |          | Oesch       |
-| 1.2  | 20.12.22      |          | Oesch       |
-| 1.3  | 20.12.22      |          | Oesch       |
-| 1.4  | 20.12.22      |          | Oesch       |
-| 1.5  | 20.12.22      |          | Oesch       |
-| 2.1  | 20.12.22      |          | Oesch       |
-| 2.2  | 20.12.22      |          | Oesch       |
-| 3.1  | 20.12.22      |          | Oesch       |
-| 3.2  | 20.12.22      |          | Oesch       |
-| 3.3  | 20.12.22      |          | Oesch       |
-| 3.4  | 20.12.22      |          | Oesch       |
-| 3.5  | 20.12.22      |          | Oesch       |
-| 4.1  | 20.12.22      |          | Oesch       |
-| 4.2  | 20.12.22      |          | Oesch       |
-| 4.3  | 20.12.22      |          | Oesch       |
-| 5.1  | 20.12.22      |          | Oesch       |
-| 5.2  | 20.12.22      |          | Oesch       |
-| 5.3  | 20.12.22      |          | Oesch       |
-| 6.1  | 20.12.22      |          | Oesch       |
-| 6.2  | 20.12.22      |          | Oesch       |
-| 6.3  | 20.12.22      |          | Oesch       |
-| 7.1  | 20.12.22      |          | Oesch       |
-| 7.2  | 20.12.22      |          | Oesch       |
-| 8.1  | 20.12.22      |          | Oesch       |
-| 8.2  | 20.12.22      |          | Oesch       |
-| 9.1  | 20.12.22      |          | Oesch       |
-| 9.2  | 20.12.22      |          | Oesch       |
-| 10.1  | 20.12.22     |          | Oesch       |
-| 11.1  | 20.12.22     |          | Oesch       |
-| 12.1  | 20.12.22     |          | Oesch       |
+| 1.1  | 20.12.22      | Funktioniert         | Oesch       |
+| 1.2  | 20.12.22      |  Eigene Karten funktionieren, der Stapel funktioniert nicht.        | Oesch       |
+| 1.3  | 20.12.22      | Funktioniert nicht, Menü wurde nicht angezeigt.        | Oesch       |
+| 1.4  | 20.12.22      | Funktioniert nicht, Menü button ist nicht da.         | Oesch       |
+| 1.5  | 20.12.22      | Spiel funktioniert nur mit 1 Spieler         | Oesch       |
+| 2.1  | 20.12.22      | Funktioniert        | Oesch       |
+| 2.2  | 20.12.22      | Funktioniert nicht, Spieler auswahl wird nicht angezeigt.         | Oesch       |
+| 3.1  | 20.12.22      | Funktioniert nicht         | Oesch       |
+| 3.2  | 20.12.22      | Funktioniert nicht          | Oesch       |
+| 3.3  | 20.12.22      | Funktioniert nicht          | Oesch       |
+| 3.4  | 20.12.22      | Funktioniert nicht          | Oesch       |
+| 3.5  | 20.12.22      | Funktioniert nicht          | Oesch       |
+| 4.1  | 20.12.22      | Funktioniert         | Oesch       |
+| 4.2  | 20.12.22      | Funktioniert nicht alle Karten können gelegt werden.          | Oesch       |
+| 4.3  | 20.12.22      | Funktioniert nicht, Stapel ist nicht anklickbar.         | Oesch       |
+| 5.1  | 20.12.22      | Funktioniert nicht, Nächster Spielr Button wird nicht nagezeigt.         | Oesch       |
+| 5.2  | 20.12.22      | Funktioniert nicht         | Oesch       |
+| 5.3  | 20.12.22      | Funktioniert nicht          | Oesch       |
+| 6.1  | 20.12.22      | Funktioniert nicht         | Oesch       |
+| 6.2  | 20.12.22      | Funktioniert nicht          | Oesch       |
+| 6.3  | 20.12.22      | Funktioniert nicht          | Oesch       |
+| 7.1  | 20.12.22      |  Funktioniert nicht, muss neu gestartet werden.         | Oesch       |
+| 7.2  | 20.12.22      |  Funktioniert nicht         | Oesch       |
+| 8.1  | 20.12.22      | Funktioniert nicht, Menü wird nicht angezeigt.         | Oesch       |
+| 8.2  | 20.12.22      | Funktioniert nicht, Menü wird nicht angezeigt.        | Oesch       |
+| 9.1  | 20.12.22      | Funktioniert nicht         | Oesch       |
+| 9.2  | 20.12.22      | Funktioniert nicht         | Oesch       |
+| 10.1  | 20.12.22     | Karte wurd nicht hinzugefügt.       | Oesch       |
+| 11.1  | 20.12.22     | Karte wurd nicht hinzugefügt.        | Oesch       |
+| 12.1  | 20.12.22     | Karte wurd nicht hinzugefügt.        | Oesch       |
 
 Fazit: Das Programm ...
 
