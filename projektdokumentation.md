@@ -7,8 +7,8 @@ Honey: Spycher, Bächli, Müller, Nursiwat, Oesch
 | 22.11.22      | 0.0.1   | Wir haben uns mit WinForms bekannt gemacht und uns für ein Kartenspiel Projekt entschieden. |
 |29/11/22       | 0.0.2   |  Wir haben angefangen das Uno Spiel zu programmieren, vorallem mit dem Visuellen Sachen.          |
 |  06/12/22     | 0.0.3   |    Wir haben weiter programmiert und haben die meissten visuellen sachen fertig die spielllogik ist aber noch nicht fertig.       |
-|  13/12/22     | 0.0.4   |   Wir haben unsere Präsentation gehalten und ...     |
-|  20/12/22     | 1.0.0   |        |
+|  13/12/22     | 0.0.4   |   Wir haben unsere Präsentation gehalten und Weiter an unserem projekt gearbeitet, es vertiggestellt.    |
+|  20/12/22     | 1.0.0   |   Wir haben die Projektdoku und den Lernbericht fertigestellt.    |
 
 
 ## 1 Informieren
