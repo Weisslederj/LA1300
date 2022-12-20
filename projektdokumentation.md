@@ -191,7 +191,7 @@ Wir mussten entscheiden welche Regeln wir zum Uno hinzufügen.
 | 11.1  | 20.12.22     | Karte wurd nicht hinzugefügt.        | Oesch       |
 | 12.1  | 20.12.22     | Karte wurd nicht hinzugefügt.        | Oesch       |
 
-Fazit: Das Programm ...
+Fazit: Das Programm funktioniert noch nicht so wie es sollte.
 
 ## 6 Auswerten
 
