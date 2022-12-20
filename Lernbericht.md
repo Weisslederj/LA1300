@@ -21,8 +21,11 @@ Wir Programmieren das bekannte Kartenspiel Uno mit Windows Forms.
 
 # Reflexion zum Arbeitsprozess
 
-👍 Überlegen Sie sich jeweils etwas, was gut an Ihrer Arbeit lief; 
+👍 Wir konnten mit Windows Forms vieles neues lernen.
+   
 
-👎 und etwas, was nicht gut lief.
+👎 Unsere Absprache war nicht immer so gut und so kam es manchmal zu Komplikationen.
+   Wir waren nicht immer so konzentriert
+ 
 
 **VBV**: ✍️ Formulieren Sie davon ausgehend einen *handelbaren* Verbesserungsvorschlag.
