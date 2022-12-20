@@ -131,7 +131,7 @@ Wir mussten entscheiden welche Regeln wir zum Uno hinzufügen.
 | 2.A  |   13.12.22    |    Bächli      |          45    |               |
 | 2.B  |  13.12.22     |   Nursiwat     |            45  |               |
 | 3.A  |  13.12.22     |  Oesch         |              45|               |
-| 3.B |   13.12.22    |   Müller       |45              |               |
+| 3.B  |   13.12.22    |   Müller       |45              |               |
 | 3.C  |  13.12.22     |   Müller       | 45             |               |
 | 3.D  |  13.12.22     |   Nursiwat     |   45           |               |
 | 3.E  |  13.12.22     |  Spycher       |     45         |               |
