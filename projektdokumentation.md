@@ -95,22 +95,22 @@ Wir machen ein Uno-Spiel in Windows Forms.
 | 3.E  |  13.12.22     |  Spycher       |   Beliebt viele Karten Modus, wo man die Kartenmenge selbst Einstellen kann.           |60                |
 | 4.A  |  13.12.22     |     Bächli     | Karten können auf den Stapel gelegt werden.             |   45             |
 | 4.B  |  13.12.22     |   Spycher      |  Karten können vom aufnehem Stapel aufgenommen werden und werden zum User seinen    |      45          |
-| 4.C  |  13.12.22     |   Oesch        |  Wenn die Karte nicht passt dann wird sie zum User seinen KArten zurückgelegt und der aufnehme Stapel leuchtet auf.             |         45       | 
-| 5.A  |  13.12.22     |    Müller      |  Wen man eine Karte gelegt hat, dann wird ein nächster-Spielr Button erscheinen.            |            45    |
-| 5.B  |  13.12.22     |     Bächli     |              |               45|
-| 5.C  |  13.12.22     |   Nursiwat     |              |45               |
-| 6.A  |  13.12.22     |    Müller      |              |  45             |
-| 6.B  |  13.12.22     |     Oesch      |              |    45           |
-| 6.C  |  13.12.22     |    Bächli      |              |      45         |
-| 7.A  |  13.12.22     |   Nursiwat     |              |        45       |
-| 7.B  |  13.12.22     |   Spycher      |              |          60     |
-| 8.A  |  13.12.22     |    Bächli      |              |            45   |
-| 8.B  |  13.12.22     |    Spycher     |              |              45 |
-| 9.A  |  13.12.22     |   Nursiwat     |              |45               |
-| 9.B  |  13.12.22     |    Müller      |              |  45             |
-| 10.A  |  13.12.22    |   Spycher      |              |    45           |
-| 11.A  |  13.12.22    |    Oesch       |              |      45         |
-| 12.A  |  13.12.22    |    Bächli      |              |        45       |
+| 4.C  |  13.12.22| Oesch |Wenn die Karte nicht passt dann wird sie zum User seinen KArten zurückgelegt und der aufnehme Stapel leuchtet auf.   |         45       | 
+| 5.A  |  13.12.22     |    Müller      |  Wen man eine Karte gelegt hat, dann wird ein nächster-Spielr Button erscheinen.      |        45    |
+| 5.B  |  13.12.22     |     Bächli     |  Wen man weiter gedrückt hat dann wird ein Blackscreen erscheinen.            |           45|
+| 5.C  |  13.12.22     |   Nursiwat     |   Wen man Enter drückt dann verschwindet der Blackscreen und dem nächsten User seine Karten erscheinen.            |45               |
+| 6.A  |  13.12.22     |    Müller      | Wenn ein User keine Karten mehr hat, gewinnt er das Spiel.             |  45             |
+| 6.B  |  13.12.22     |     Oesch      | Der runden Counter stoppt, wenn in top 3 dann wird die rundenahnzahl gespeichert.             |    45           |
+| 6.C  |  13.12.22     |    Bächli      |  Wenn man gewonnen hat erscheint eine gewinner animation.            |      45         |
+| 7.A  |  13.12.22     |   Nursiwat     |  Button erscheint nochmal Spielen.            |        45       |
+| 7.B  |  13.12.22     |   Spycher      |  Mit gleich vielen Spilern nochmal Spielen.|          60     |
+| 8.A  |  13.12.22     |    Bächli      |  Menü wird vor dem Spiel angezeigt.             |            45   |
+| 8.B  |  13.12.22     |    Spycher     |  Menü Button wird während dem Spiel angezeigt.            |              45 |
+| 9.A  |  13.12.22     |   Nursiwat     | Wenn runde vorbei Runden counter geht eine runde hoch.             |45               |
+| 9.B  |  13.12.22     |    Müller      |  Runden counter speichert und gewinner wird gespeichert.            |  45             |
+| 10.A  |  13.12.22    |   Spycher      |  Wünschkarte wo man eine Farbe wüschen kann.            |    45           |
+| 11.A  |  13.12.22    |    Oesch       |  Karte wo sich die Spiel richtung wechselt.            |      45         |
+| 12.A  |  13.12.22    |    Bächli      |  Spezial Karte die man eine Rund aussetzten muss.           |        45       |
 
 Total:  810 min.
 
