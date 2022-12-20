@@ -30,4 +30,4 @@ Wir haben gelernt wie man eine Picturebox an eine neue Position setzen kann.
    Wir waren nicht immer so konzentriert.
  
 
-**VBV**: ✍️  Einen Verbesserungsvorschlag
+**VBV**: ✍️  Einen Verbesserungsvorschlag für unsere Gruppe ist, dass wir das nächste mal besser planen wer was und wie lange defür arbeiten soll. 
