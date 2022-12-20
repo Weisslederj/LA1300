@@ -17,10 +17,11 @@ Wir haben gelernt wie man eine Picturebox an eine neue Position setzen kann.
         }
 ```
 
-
+Dieser Code zeigt in der oberen Zeile ein Public Void von einer Checkbox die etwas auslöst.
+Die 2. Zeile setzt die Location von der PictureBox 2 auf eine neue Koordinate. Dabei ist die PictureBox ein Platzhalter für eine Karte in der Spielhand. Die Koordinaten sind in diesem Fall bei allen Karten gleich. Der neue Punkt ist der Ablegstapel wo die Karten beim ablegen hinkommen.
 ## Verifikation
 
-✍️ Erklären Sie kurz und bündig, inwiefern die von Ihnen verwendeten Medien zeigen, was Sie gelernt haben.
+Man sieht ein Codesnipet aus unserem Code, einen Text der unseren Code beschreibt und 
 
 # Reflexion zum Arbeitsprozess
 
