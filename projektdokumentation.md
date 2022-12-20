@@ -76,6 +76,8 @@ Wir machen ein Uno-Spiel in Windows Forms.
 ### 1.4 Diagramme
 
 ✍️ Hier können Sie PAPs, Use Case- und Gantt-Diagramme oder Ähnliches einfügen.
+![image](https://user-images.githubusercontent.com/110892330/208629263-56cea773-b22a-4b9e-b8a4-f6cf9f45a09e.png)
+
 
 ## 2 Planen
 
