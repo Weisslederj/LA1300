@@ -25,7 +25,7 @@ https://user-images.githubusercontent.com/110892658/208631801-e4245aae-6c49-4d21
 
 ## Verifikation
 
-Man sieht ein Codesnipet aus unserem Code, einen Text der unseren Code beschreibt und 
+Man sieht ein Codesnipet aus unserem Code, einen Text der unseren Code beschreibt und ein Video wie unser Code funktioniert.
 
 # Reflexion zum Arbeitsprozess
 
