@@ -16,6 +16,8 @@ Wir haben gelernt wie man eine Picturebox an eine neue Position setzen kann.
              pictureBox2.Location = new Point(339, 92);
         }
 ```
+
+
 ## Verifikation
 
 ✍️ Erklären Sie kurz und bündig, inwiefern die von Ihnen verwendeten Medien zeigen, was Sie gelernt haben.
